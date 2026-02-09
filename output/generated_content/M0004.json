@@ -1,36 +1,40 @@
 {
   "module_id": "M0004",
-  "generated_text": "In \"Module 4: Prompting,\" learn the fundamentals of effective prompting. This 44-minute video covers key concepts, examples, and best practices for beginners. Discover how to craft clear and concise prompts, and explore techniques for improving response quality. Interactive scenarios and real-world applications make learning engaging and practical.",
+  "generated_text": "In \"Module 4: Prompting\", learn the fundamentals of effective prompting. This 44-minute video covers key concepts, including prompt types, design principles, and best practices. Through interactive examples and demonstrations, beginner learners will gain practical skills to craft clear and concise prompts, enhancing communication and productivity.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 4: Prompting?",
       "options": [
-        "A) Crafting clear and concise prompts",
-        "B) Improving response quality",
-        "C) Creating interactive scenarios",
-        "D) All of the above"
+        "Effective communication",
+        "Productivity enhancement",
+        "Prompting fundamentals",
+        "Design principles"
       ],
-      "correct_answer": "D"
+      "correct_answer": "C"
     },
     {
-      "question": "How long is the video in Module 4: Prompting?",
+      "question": "What is the duration of the video in Module 4: Prompting?",
       "options": [
-        "A) 30 minutes",
-        "B) 44 minutes",
-        "C) 1 hour",
-        "D) 2 hours"
+        "30 minutes",
+        "44 minutes",
+        "60 minutes",
+        "90 minutes"
       ],
       "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
-      "front": "Effective Prompting",
-      "back": "The process of crafting clear and concise prompts to achieve a specific response or outcome."
+      "front": "Prompt types",
+      "back": "Different categories of prompts used for specific purposes"
     },
     {
-      "front": "Response Quality",
-      "back": "The measure of how well a response meets the requirements or expectations of a given prompt or task."
+      "front": "Design principles",
+      "back": "Guidelines for creating effective and clear prompts"
+    },
+    {
+      "front": "Best practices",
+      "back": "Recommended approaches for crafting and using prompts"
     }
   ]
 }

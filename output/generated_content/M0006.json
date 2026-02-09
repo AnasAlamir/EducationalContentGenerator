@@ -1,21 +1,21 @@
 {
   "module_id": "M0006",
-  "generated_text": "\"Module 6: Prompting\" (67 minutes, Beginner)\nTest your knowledge on AI prompting. What is prompting? \nA) Input for AI models\nB) Output from AI models\nC) Training AI data\nChoose your answer to learn more about effective prompting techniques.",
+  "generated_text": "**Module 6: Prompting**\nTest your skills in AIIP. What is prompting? \nA) AI input \nB) Human command \nC) System response \nChoose your answer. (5 minutes)",
   "mcqs": [
     {
       "question": "What is prompting?",
       "options": [
-        "A) Input for AI models",
-        "B) Output from AI models",
-        "C) Training AI data"
+        "A) AI input",
+        "B) Human command",
+        "C) System response"
       ],
-      "correct_answer": "A) Input for AI models"
+      "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
       "front": "Prompting",
-      "back": "Input for AI models"
+      "back": "Human command"
     }
   ]
 }

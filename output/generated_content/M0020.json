@@ -1,36 +1,18 @@
 {
   "module_id": "M0020",
-  "generated_text": "Module 20: NLP. Learn Natural Language Processing basics, including text analysis and sentiment detection. Discover how NLP tools can improve communication and data insights. Explore applications in chatbots, language translation, and content generation. This 29-minute module is designed for intermediate learners, providing a concise introduction to NLP concepts and uses.",
-  "mcqs": [
-    {
-      "question": "What is the primary focus of Module 20: NLP?",
-      "options": [
-        "Machine Learning",
-        "Natural Language Processing",
-        "Data Science",
-        "Artificial Intelligence"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What is one of the applications of NLP tools?",
-      "options": [
-        "Predictive Modeling",
-        "Chatbots",
-        "Data Visualization",
-        "Network Security"
-      ],
-      "correct_answer": "B"
-    }
+  "title": "Module 20: NLP",
+  "description": "Learn Natural Language Processing tools to analyze and generate human-like text.",
+  "duration": 29,
+  "topics": [
+    "sentiment analysis",
+    "text classification",
+    "language modeling"
   ],
-  "flashcards": [
-    {
-      "front": "NLP",
-      "back": "Natural Language Processing"
-    },
-    {
-      "front": "Sentiment Detection",
-      "back": "The process of determining the emotional tone or attitude conveyed by a piece of text"
-    }
-  ]
+  "applications": [
+    "chatbots",
+    "language translation"
+  ],
+  "level": "Intermediate",
+  "tools": "NLP",
+  "generated_text": "Module 20: NLP. Learn Natural Language Processing tools to analyze and generate human-like text. Discover techniques for sentiment analysis, text classification, and language modeling. Apply NLP to real-world problems, such as chatbots and language translation. Duration: 29 minutes."
 }

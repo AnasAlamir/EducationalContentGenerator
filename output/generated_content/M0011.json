@@ -1,44 +1,36 @@
 {
   "module_id": "M0011",
-  "generated_text": "\"Module 11: Python\" lab is an 81-minute intermediate training. Practice writing Python scripts, using variables, and control structures. Work on exercises to reinforce concepts, such as data types and functions. Apply problem-solving skills to real-world scenarios, enhancing your coding abilities.",
+  "generated_text": "\"Module 11: Python\" (81 minutes, Intermediate)\nIn this lab, practice Python programming by completing hands-on exercises. Review data types, functions, and control structures. Apply Python to real-world scenarios, such as data analysis and file manipulation. Work through guided activities to reinforce concepts and build skills.",
   "mcqs": [
     {
-      "question": "What is the primary focus of Module 11: Python lab?",
+      "question": "What is the primary focus of Module 11?",
       "options": [
-        "Writing Python scripts",
-        "Using databases",
-        "Creating web applications",
-        "Designing algorithms"
+        "Java programming",
+        "Python programming",
+        "Data analysis",
+        "File manipulation"
       ],
-      "correct_answer": "A"
+      "correct_answer": "B"
     },
     {
-      "question": "What is the duration of the Module 11: Python lab?",
+      "question": "What is one of the real-world scenarios where Python can be applied?",
       "options": [
-        "60 minutes",
-        "81 minutes",
-        "90 minutes",
-        "120 minutes"
+        "Web development",
+        "Data analysis",
+        "Network security",
+        "Artificial intelligence"
       ],
       "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
-      "front": "Variables",
-      "back": "Store and manipulate data in a program"
+      "front": "Data types",
+      "back": "Basic elements of a programming language used to declare variables"
     },
     {
       "front": "Control structures",
-      "back": "Used to control the flow of a program's execution"
-    },
-    {
-      "front": "Data types",
-      "back": "Classification of data based on its format and usage"
-    },
-    {
-      "front": "Functions",
-      "back": "Reusable blocks of code that perform a specific task"
+      "back": "Elements of a programming language used to control the flow of a program"
     }
   ]
 }

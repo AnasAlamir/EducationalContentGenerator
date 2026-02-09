@@ -1,53 +1,14 @@
 {
   "module_id": "M0048",
-  "module_name": "Python",
-  "level": "Advanced",
   "duration": 56,
-  "questions": [
-    {
-      "question": "What is the purpose of the \"self\" parameter in Python classes?",
-      "options": [
-        "To access static methods",
-        "To access class variables",
-        "To refer to the instance of the class",
-        "To implement inheritance"
-      ],
-      "correct_answer": "To refer to the instance of the class"
-    },
-    {
-      "question": "How do you implement inheritance in Python?",
-      "options": [
-        "Using the 'import' statement",
-        "Using the 'extends' keyword",
-        "Using the '(' and ')' operators to specify the parent class",
-        "Using the 'inherit' keyword"
-      ],
-      "correct_answer": "Using the '(' and ')' operators to specify the parent class"
-    },
-    {
-      "question": "What is the difference between static and dynamic typing in Python?",
-      "options": [
-        "Static typing is used for built-in types, while dynamic typing is used for custom types",
-        "Static typing is used for custom types, while dynamic typing is used for built-in types",
-        "Python uses static typing, while other languages use dynamic typing",
-        "Python uses dynamic typing, while other languages use static typing"
-      ],
-      "correct_answer": "Python uses dynamic typing, while other languages use static typing"
-    }
+  "topics": [
+    "Decorators and generators",
+    "Advanced data structures (sets, dictionaries)",
+    "File input/output and exceptions",
+    "Object-Oriented Programming (OOP) concepts"
   ],
-  "flashcards": [
-    {
-      "front": "Self parameter",
-      "back": "Refers to the instance of the class"
-    },
-    {
-      "front": "Inheritance in Python",
-      "back": "Implemented using the '(' and ')' operators to specify the parent class"
-    },
-    {
-      "front": "Static vs Dynamic typing",
-      "back": "Python uses dynamic typing"
-    }
-  ],
-  "generated_text": "**Module 48: Python**\n**Advanced Level**\n**Duration: 56 minutes**\n\nTest your Python skills with this quiz. Answer the following questions to assess your knowledge:\n\n1. What is the purpose of the \"self\" parameter in Python classes?\n2. How do you implement inheritance in Python?\n3. What is the difference between static and dynamic typing in Python?\n\nChoose from multiple-choice options and submit your answers. Upon completion, review the explanations and example code to reinforce your understanding of advanced Python concepts."
+  "num_questions": 10,
+  "learning_objective": "Test your advanced Python skills",
+  "call_to_action": "Choose the correct answer for each question. Upon completion, review your results and explore additional resources for further learning.",
+  "generated_text": "**Module 48: Python**\n**Duration: 56 minutes**\nTest your advanced Python skills with this 10-question quiz. Topics include:\n* Decorators and generators\n* Advanced data structures (sets, dictionaries)\n* File input/output and exceptions\n* Object-Oriented Programming (OOP) concepts\nChoose the correct answer for each question. Upon completion, review your results and explore additional resources for further learning."
 }

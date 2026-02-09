@@ -1,17 +1,12 @@
 {
   "module_id": "M0016",
   "duration": 53,
-  "difficulty": "Advanced",
-  "topic": "NLP",
-  "description": "Test your knowledge of Natural Language Processing (NLP) in AIIP",
-  "quiz_covers": [
-    "Text preprocessing and tokenization",
+  "topics": [
+    "Text preprocessing techniques",
     "Sentiment analysis and named entity recognition",
     "Machine learning models for NLP",
-    "Real-world applications of NLP in AIIP"
+    "Applications of NLP in AI"
   ],
-  "num_questions": 10,
-  "question_type": "multiple-choice",
-  "assessment": "understanding of NLP concepts and techniques",
-  "generated_text": "**Module 16: NLP (53 minutes, Advanced)**\nTest your knowledge of Natural Language Processing (NLP) in AIIP. This quiz covers:\n* Text preprocessing and tokenization\n* Sentiment analysis and named entity recognition\n* Machine learning models for NLP\n* Real-world applications of NLP in AIIP\nAnswer 10 multiple-choice questions to assess your understanding of NLP concepts and techniques. Upon completion, evaluate your results and review key takeaways to reinforce your learning."
+  "instructions": "Choose the correct answer for each question. Upon completion, review your results and explore additional resources for further learning.",
+  "generated_text": "**Module 16: NLP**\n**Duration: 53 minutes**\nTest your advanced knowledge of Natural Language Processing (NLP). This 53-minute quiz covers:\n1. Text preprocessing techniques\n2. Sentiment analysis and named entity recognition\n3. Machine learning models for NLP\n4. Applications of NLP in AI\n\n**Instructions:** Choose the correct answer for each question. Upon completion, review your results and explore additional resources for further learning."
 }

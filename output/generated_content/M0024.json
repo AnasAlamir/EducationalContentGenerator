@@ -1,13 +1,13 @@
 {
   "module_id": "M0024",
-  "generated_text": "In Module 24: Data, explore the fundamentals of data in ICAIL. This 21-minute video covers data types, sources, and applications, with interactive examples and case studies. Learn to collect, analyze, and interpret data to inform decisions and drive outcomes. Suitable for intermediate learners, this module provides practical skills and knowledge to enhance your ICAIL expertise.",
+  "generated_text": "In \"Module 24: Data\", explore data concepts and applications in ICAIL. This 21-minute video covers data types, sources, and visualization, with interactive examples and case studies. Learn to collect, analyze, and interpret data to inform decisions and drive outcomes. Suitable for intermediate learners, this module provides practical skills and knowledge to enhance your ICAIL expertise.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 24: Data?",
       "options": [
-        "Data types and applications",
-        "Data analysis and interpretation",
-        "Data collection and sources",
+        "Data types and sources",
+        "Data visualization and interpretation",
+        "Data collection and analysis",
         "All of the above"
       ],
       "correct_answer": "D"
@@ -25,12 +25,16 @@
   ],
   "flashcards": [
     {
-      "front": "Data Types",
-      "back": "Classification of data based on its characteristics and properties"
+      "front": "Data types",
+      "back": "Classification of data into different categories"
     },
     {
-      "front": "ICAIL",
-      "back": "Intermediate Course in Artificial Intelligence and Learning"
+      "front": "Data sources",
+      "back": "Origins of data, such as primary or secondary sources"
+    },
+    {
+      "front": "Data visualization",
+      "back": "Representation of data in a graphical or chart format"
     }
   ]
 }

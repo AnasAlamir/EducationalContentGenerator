@@ -1,38 +1,34 @@
 {
   "module_id": "M0037",
-  "category": "Tools",
-  "duration": 30,
-  "level": "Advanced",
-  "description": "Test your knowledge on prompting tools.",
+  "generated_text": "**Module 37: Prompting**\n**Category: Tools**\n**Duration: 30 minutes**\n**Level: Advanced**\n\nTest your knowledge on prompting tools. Choose the correct answer:\n\n1. What is prompting in AI?\na) A user input\nb) A machine output\nc) A training dataset\n\nAnswer: a) A user input\n\n2. Which tool uses prompting for text generation?\na) Chatbot\nb) Virtual Assistant\nc) Language Model\n\nAnswer: c) Language Model\n\nEvaluate your understanding of prompting tools and their applications.",
   "mcqs": [
     {
-      "question": "What is the primary function of prompting in a tool?",
+      "question": "What is prompting in AI?",
       "options": [
-        "To automate tasks",
-        "To provide user guidance",
-        "To enhance security"
+        "A user input",
+        "A machine output",
+        "A training dataset"
       ],
-      "correct_answer": "To provide user guidance"
+      "correct_answer": "A user input"
     },
     {
-      "question": "Which of the following is a benefit of using prompting tools?",
+      "question": "Which tool uses prompting for text generation?",
       "options": [
-        "Increased complexity",
-        "Improved user experience",
-        "Reduced productivity"
+        "Chatbot",
+        "Virtual Assistant",
+        "Language Model"
       ],
-      "correct_answer": "Improved user experience"
+      "correct_answer": "Language Model"
     }
   ],
   "flashcards": [
     {
-      "front": "Primary function of prompting",
-      "back": "To provide user guidance"
+      "front": "Prompting in AI",
+      "back": "A user input"
     },
     {
-      "front": "Benefit of prompting tools",
-      "back": "Improved user experience"
+      "front": "Tool for text generation using prompting",
+      "back": "Language Model"
     }
-  ],
-  "generated_text": "**Module 37: Prompting**\n**Category: Tools**\n**Duration: 30 minutes**\n**Level: Advanced**\n\nTest your knowledge on prompting tools. Choose the correct answer:\n\n1. What is the primary function of prompting in a tool?\na) To automate tasks\nb) To provide user guidance\nc) To enhance security\n\nAnswer: b) To provide user guidance\n\n2. Which of the following is a benefit of using prompting tools?\na) Increased complexity\nb) Improved user experience\nc) Reduced productivity\n\nAnswer: b) Improved user experience\n\nAssess your understanding of prompting tools and their applications."
+  ]
 }

@@ -1,15 +1,15 @@
 {
   "module_id": "M0030",
-  "generated_text": "\"Module 30: NLP\" \nTest your knowledge on Natural Language Processing (NLP). \nWhat is NLP? \nA) AI for images \nB) AI for text \nC) AI for audio \nChoose your answer. (Duration: 18 minutes)",
+  "generated_text": "\"Module 30: NLP\" \nTest your knowledge on Natural Language Processing (NLP). \nWhat is NLP? \nA) AI for images\nB) AI for text and speech\nC) AI for videos\nChoose your answer. (Duration: 18 minutes)",
   "mcqs": [
     {
       "question": "What is NLP?",
       "options": [
         "A) AI for images",
-        "B) AI for text",
-        "C) AI for audio"
+        "B) AI for text and speech",
+        "C) AI for videos"
       ],
-      "correct_answer": "B) AI for text"
+      "correct_answer": "B"
     }
   ],
   "flashcards": [

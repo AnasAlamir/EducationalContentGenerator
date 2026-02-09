@@ -1,24 +1,36 @@
 {
   "module_id": "M0012",
-  "duration": 47,
-  "level": "Intermediate",
-  "description": "Effective leaders make data-driven decisions. Learn to collect, analyze, and interpret data to inform strategic choices.",
-  "objectives": [
-    "Collect data",
-    "Analyze data",
-    "Interpret data",
-    "Identify key metrics",
-    "Create data visualizations",
-    "Present insights to stakeholders"
+  "generated_text": "\"Module 12: Data\" (47 minutes, Intermediate). Effective leaders make informed decisions using data. Learn to collect, analyze, and interpret data to drive business outcomes. Understand key metrics, identify trends, and create data-driven strategies to enhance organizational performance.",
+  "mcqs": [
+    {
+      "question": "What do effective leaders use to make informed decisions?",
+      "options": [
+        "Experience",
+        "Data",
+        "Intuition",
+        "Instinct"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the purpose of collecting and analyzing data in a business setting?",
+      "options": [
+        "To identify key metrics",
+        "To drive business outcomes",
+        "To create data-driven strategies",
+        "All of the above"
+      ],
+      "correct_answer": "D"
+    }
   ],
-  "outcomes": [
-    "Drive business outcomes",
-    "Improve organizational performance"
-  ],
-  "topics": [
-    "Data analysis",
-    "Data visualization",
-    "Strategic decision making"
-  ],
-  "generated_text": "\"Module 12: Data\" (47 minutes, Intermediate). Effective leaders make data-driven decisions. Learn to collect, analyze, and interpret data to inform strategic choices. Discover how to identify key metrics, create data visualizations, and present insights to stakeholders. Apply data analysis techniques to drive business outcomes and improve organizational performance."
+  "flashcards": [
+    {
+      "front": "Data-driven strategies",
+      "back": "Strategies that are based on the analysis and interpretation of data to drive business outcomes"
+    },
+    {
+      "front": "Key metrics",
+      "back": "Important measurements that are used to evaluate and understand business performance"
+    }
+  ]
 }

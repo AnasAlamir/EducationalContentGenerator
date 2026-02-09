@@ -2,16 +2,18 @@
   "module_id": "M0035",
   "duration": 62,
   "level": "Intermediate",
-  "description": "Explore data tools and techniques. Analyze sample datasets, practice data visualization, and learn to extract insights.",
+  "description": "Explore data tools and techniques",
   "objectives": [
-    "Master data manipulation",
-    "Interpret data",
-    "Inform decisions with data"
+    "Collecting data",
+    "Analyzing data",
+    "Visualizing data"
   ],
   "topics": [
-    "Data tools",
-    "Data visualization",
-    "Data interpretation"
+    "Data manipulation",
+    "Data interpretation",
+    "Trend identification",
+    "Chart creation",
+    "Decision making"
   ],
-  "generated_text": "\"Module 35: Data\" (62 minutes, Intermediate)\nIn this lab, explore data tools and techniques. Analyze sample datasets, practice data visualization, and learn to extract insights. Hands-on exercises will help you master data manipulation and interpretation. By the end, you'll be able to effectively work with data to inform decisions."
+  "generated_text": "\"Module 35: Data\" (62 minutes, Intermediate)\nIn this lab, explore data tools and techniques. Practice collecting, analyzing, and visualizing data using real-world scenarios. Learn to identify trends, create charts, and make informed decisions. Hands-on exercises will help you master data manipulation and interpretation."
 }

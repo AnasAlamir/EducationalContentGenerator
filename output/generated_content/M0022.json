@@ -4,16 +4,13 @@
   "level": "Intermediate",
   "description": "Create a professional CV",
   "objectives": [
-    "Craft a compelling summary",
-    "Tailor sections to your experience",
-    "Use action verbs and keywords"
+    "Tailor your objective and summary",
+    "Organize education and work experience",
+    "Highlight skills and achievements"
   ],
-  "exercises": [
-    {
-      "type": "guided",
-      "topic": "Building your CV"
-    }
+  "outcomes": [
+    "Enhanced CV",
+    "Improved job prospects"
   ],
-  "feedback": "Receive feedback on your CV",
-  "generated_text": "\"Module 22: CV\" (76 minutes, Intermediate)\nIn this lab, create a professional CV. Follow along with the instructor to:\n- Craft a compelling summary\n- Tailor sections to your experience\n- Use action verbs and keywords\nPractice building your CV with guided exercises and receive feedback."
+  "generated_text": "\"Module 22: CV\" (76 minutes, Intermediate)\nIn this lab, create a professional CV. Follow guided steps to:\n- Tailor your objective and summary\n- Organize education and work experience\n- Highlight skills and achievements\nPractice and receive feedback to enhance your CV."
 }

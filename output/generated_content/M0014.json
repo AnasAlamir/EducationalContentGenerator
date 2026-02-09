@@ -3,22 +3,13 @@
   "duration": 89,
   "level": "Intermediate",
   "description": "Test your leadership ethics knowledge",
-  "assessment": {
-    "type": "multiple-choice",
-    "questions": 10,
-    "topics": [
-      "moral principles",
-      "decision-making",
-      "accountability"
-    ]
-  },
-  "learning_objectives": [
-    "Apply ethical frameworks to real-world scenarios",
-    "Evaluate understanding of responsible leadership"
+  "topics": [
+    "Conflict of interest",
+    "Data privacy",
+    "Workplace conduct"
   ],
-  "evaluation_criteria": [
-    "consequences",
-    "stakeholder impact"
-  ],
-  "generated_text": "\"Module 14: Ethics\" (89 minutes, Intermediate)\nTest your leadership ethics knowledge. Answer 10 multiple-choice questions on moral principles, decision-making, and accountability. Apply ethical frameworks to real-world scenarios, considering consequences and stakeholder impact. Evaluate your understanding of responsible leadership and make informed choices."
+  "questions": 10,
+  "question_type": "multiple-choice",
+  "assessment": "Apply ethical principles to real-world scenarios",
+  "generated_text": "\"Module 14: Ethics\" (89 minutes, Intermediate)\nTest your leadership ethics knowledge. Answer 10 multiple-choice questions on moral principles, decision-making, and responsible leadership. Topics include:\n- Conflict of interest\n- Data privacy\n- Workplace conduct\nAssess your understanding and apply ethical principles to real-world scenarios."
 }

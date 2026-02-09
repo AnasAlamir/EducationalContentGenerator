@@ -3,17 +3,25 @@
   "module_name": "CV",
   "duration": 17,
   "level": "Advanced",
-  "steps": [
-    "Customize the header with your information",
-    "Tailor the summary to your experience",
-    "Edit the work experience section to highlight achievements",
-    "Add relevant skills and education",
-    "Save and export your CV as a PDF"
+  "objectives": [
+    "Optimize CV layout",
+    "Tailor content",
+    "Use action verbs",
+    "Proofread"
   ],
-  "objective": "Create a professional CV using a template",
-  "skills": [
-    "Formatting",
-    "Readability enhancement"
+  "tools": [
+    "Word processing"
   ],
-  "generated_text": "**Module 8: CV (17 minutes, Advanced)**\nIn this lab, you'll create a professional CV using a template. Open the provided CV template and follow these steps:\n1. Customize the header with your information.\n2. Tailor the summary to your experience.\n3. Edit the work experience section to highlight achievements.\n4. Add relevant skills and education.\n5. Save and export your CV as a PDF.\nPractice applying advanced formatting techniques to enhance readability."
+  "techniques": [
+    "Clear headings",
+    "Bullet points",
+    "Relevant experience",
+    "Impactful verbs"
+  ],
+  "best_practices": [
+    "Concise CV",
+    "Error-free formatting",
+    "Effective grammar"
+  ],
+  "generated_text": "**Module 8: CV (17 minutes, Advanced)**\n\nIn this lab, you'll refine your CV creation skills. Open your preferred word processing tool and follow along. \n\n1. **Optimize your layout**: Use clear headings and bullet points to enhance readability.\n2. **Tailor your content**: Emphasize relevant experience and skills.\n3. **Use action verbs**: Describe achievements with impactful verbs like \"managed\" and \"created\".\n4. **Proofread**: Ensure error-free formatting and grammar.\n\nPractice creating a concise, effective CV by applying these techniques."
 }

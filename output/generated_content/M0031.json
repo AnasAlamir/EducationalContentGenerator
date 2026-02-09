@@ -2,12 +2,15 @@
   "module_id": "M0031",
   "duration": 86,
   "topics": [
-    "Advanced data types and operations",
-    "File input/output and persistence",
-    "Object-oriented programming concepts",
-    "Error handling and debugging"
+    "List comprehensions",
+    "Lambda functions",
+    "Error handling",
+    "Module imports"
   ],
   "description": "Test your advanced Python skills with this 86-minute quiz. Apply your knowledge of data structures, file operations, and object-oriented programming to solve real-world problems.",
-  "outcome": "Demonstrate your expertise in Python by completing this challenging quiz. Upon completion, you will receive feedback on your performance and areas for improvement.",
-  "generated_text": "**Module 31: Python**\n**Duration: 86 minutes**\nTest your advanced Python skills with this 86-minute quiz. Apply your knowledge of data structures, file operations, and object-oriented programming to solve real-world problems. Questions will cover:\n\n* Advanced data types and operations\n* File input/output and persistence\n* Object-oriented programming concepts\n* Error handling and debugging\n\nDemonstrate your expertise in Python by completing this challenging quiz. Upon completion, you will receive feedback on your performance and areas for improvement."
+  "assessment": {
+    "type": "quiz",
+    "purpose": "Demonstrate your proficiency in Python by completing this challenging quiz, designed to assess your ability to write efficient and effective code."
+  },
+  "generated_text": "**Module 31: Python**\n**Duration: 86 minutes**\nTest your advanced Python skills with this 86-minute quiz. Apply your knowledge of data structures, file operations, and object-oriented programming to solve real-world problems. Questions will cover topics such as:\n- List comprehensions\n- Lambda functions\n- Error handling\n- Module imports\nDemonstrate your proficiency in Python by completing this challenging quiz, designed to assess your ability to write efficient and effective code."
 }

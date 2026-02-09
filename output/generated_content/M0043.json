@@ -5,12 +5,12 @@
     {
       "question": "What does AI refer to?",
       "options": [
-        "Computer systems that think and learn like humans",
         "Computer systems that only process data",
-        "Computer systems that are only used for gaming",
-        "Computer systems that are only used for networking"
+        "Computer systems that think and learn like humans",
+        "Computer systems that can only perform calculations",
+        "Computer systems that are not capable of learning"
       ],
-      "correct_answer": "A"
+      "correct_answer": "B"
     },
     {
       "question": "What are some key concepts in AI?",
@@ -34,7 +34,7 @@
     },
     {
       "front": "Neural Networks",
-      "back": "A type of AI that is modeled after the structure and function of the human brain"
+      "back": "A type of machine learning model inspired by the structure and function of the human brain"
     }
   ]
 }

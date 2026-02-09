@@ -26,11 +26,11 @@
   "flashcards": [
     {
       "front": "AI Bias",
-      "back": "The primary concern of AI bias is social inequality."
+      "back": "The primary concern of AI bias is social inequality"
     },
     {
-      "front": "Beneficence",
-      "back": "A principle that guides AI development to prioritize human well-being."
+      "front": "Human Well-being in AI",
+      "back": "The principle that guides AI development to prioritize human well-being is Beneficence"
     }
   ]
 }

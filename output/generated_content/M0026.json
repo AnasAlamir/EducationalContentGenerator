@@ -1,40 +1,40 @@
 {
   "module_id": "M0026",
-  "generated_text": "\"Module 26: Data\" is a 35-minute advanced video training. Learn to collect, analyze, and visualize data using expert tools. Topics include data mining, statistical modeling, and data storytelling. Through interactive examples and case studies, discover how to extract insights and drive business decisions. Key takeaways: \n\n* Apply data analysis techniques\n* Create interactive dashboards\n* Communicate complex data insights effectively\n\nEnhance your data skills and stay ahead in the field.",
+  "generated_text": "In \"Module 26: Data\", advanced learners will dive into expert-level data management techniques. This 35-minute video covers data analysis, visualization, and interpretation. Key topics include:\n\n* Data modeling and mining\n* Advanced data visualization tools\n* Statistical analysis and reporting\n\nThrough real-world examples and interactive demonstrations, learners will gain hands-on experience working with complex data sets. By the end of this module, participants will be able to extract insights, identify trends, and make data-driven decisions. This video is designed for advanced learners looking to enhance their data skills and stay ahead in their field.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 26: Data?",
       "options": [
-        "Data collection and analysis",
-        "Data visualization and storytelling",
-        "Statistical modeling and machine learning",
-        "All of the above"
+        "Data analysis and visualization",
+        "Machine learning and AI",
+        "Cloud computing and networking",
+        "Cybersecurity and threat analysis"
       ],
-      "correct_answer": "D"
+      "correct_answer": "A"
     },
     {
-      "question": "What is one of the key takeaways from Module 26: Data?",
+      "question": "What is one of the key topics covered in Module 26: Data?",
       "options": [
-        "Apply data analysis techniques",
-        "Create interactive reports",
-        "Develop machine learning models",
-        "Design databases"
+        "Advanced data visualization tools",
+        "Basic programming concepts",
+        "Data structures and algorithms",
+        "Web development and design"
       ],
       "correct_answer": "A"
     }
   ],
   "flashcards": [
     {
-      "front": "Data Mining",
-      "back": "The process of automatically discovering patterns and relationships in large datasets"
+      "front": "Data modeling and mining",
+      "back": "The process of creating a conceptual representation of data and extracting insights from large datasets."
     },
     {
-      "front": "Data Storytelling",
-      "back": "The process of communicating insights and findings from data analysis in a clear and compelling way"
+      "front": "Advanced data visualization tools",
+      "back": "Software and techniques used to create interactive and dynamic visual representations of complex data."
     },
     {
-      "front": "Statistical Modeling",
-      "back": "The use of statistical techniques to develop mathematical models that describe and predict real-world phenomena"
+      "front": "Statistical analysis and reporting",
+      "back": "The process of collecting, analyzing, and interpreting data to extract insights and inform decision-making."
     }
   ]
 }

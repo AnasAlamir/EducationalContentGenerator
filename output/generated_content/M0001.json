@@ -1,22 +1,23 @@
 {
   "module_id": "M0001",
-  "generated_text": "\"Module 1: Data\" (63 minutes, Beginner)\nTest your knowledge: What is data? \nA) Facts and figures\nB) Only numbers\nC) Unrelated information\nD) Opinions\n\nCorrect answer: A) Facts and figures. Learn to identify and work with data in ICAIL.",
+  "generated_text": "\"Module 1: Data\" (63 minutes, Beginner)\nTest your knowledge: What is data? A) Facts, B) Opinions, or C) Both? Answer: A) Facts. Data is information used to learn or make decisions. Take this quiz to understand data basics and its importance in ICAIL.",
   "mcqs": [
     {
       "question": "What is data?",
       "options": [
-        "Facts and figures",
-        "Only numbers",
-        "Unrelated information",
-        "Opinions"
+        "A) Facts",
+        "B) Opinions",
+        "C) Both"
       ],
-      "correct_answer": "A"
+      "correct_answer": "A) Facts"
     }
   ],
   "flashcards": [
     {
       "front": "Data",
-      "back": "Facts and figures"
+      "back": "Information used to learn or make decisions"
     }
-  ]
+  ],
+  "duration": 63,
+  "level": "Beginner"
 }

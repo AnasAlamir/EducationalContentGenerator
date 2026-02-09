@@ -1,36 +1,40 @@
 {
   "module_id": "M0013",
-  "generated_text": "\"Module 13: AI Basics\" \nIntroduction to Artificial Intelligence (AI) concepts. Learn basic AI terminology, types, and applications. Understand machine learning and neural networks. Duration: 40 minutes. Start your AI journey here.",
+  "generated_text": "\"Module 13: AI Basics\" \nLearn the fundamentals of Artificial Intelligence (AI) in 40 minutes. Discover what AI is, its types, and applications. Understand machine learning and neural networks. Start with the basics and build a strong foundation in AI concepts.",
   "mcqs": [
     {
-      "question": "What does AI stand for?",
+      "question": "What is the primary focus of Module 13?",
       "options": [
-        "Artificial Instinct",
-        "Artificial Intelligence",
-        "Automatic Innovation",
-        "Advanced Insight"
+        "AI Basics",
+        "Machine Learning",
+        "Neural Networks",
+        "Data Science"
       ],
-      "correct_answer": "B"
+      "correct_answer": "A"
     },
     {
-      "question": "What is the duration of Module 13: AI Basics?",
+      "question": "How long does it take to learn the fundamentals of AI in Module 13?",
       "options": [
         "30 minutes",
         "40 minutes",
-        "50 minutes",
-        "60 minutes"
+        "1 hour",
+        "2 hours"
       ],
       "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
-      "front": "Artificial Intelligence",
-      "back": "The development of computer systems able to perform tasks that typically require human intelligence."
+      "front": "Artificial Intelligence (AI)",
+      "back": "The development of computer systems that can perform tasks that typically require human intelligence"
     },
     {
       "front": "Machine Learning",
-      "back": "A subset of artificial intelligence that involves training algorithms to learn from data and make predictions or decisions."
+      "back": "A subset of AI that involves training algorithms to learn from data and make predictions or decisions"
+    },
+    {
+      "front": "Neural Networks",
+      "back": "A type of machine learning model inspired by the structure and function of the human brain"
     }
   ]
 }

@@ -2,21 +2,51 @@
   "module_id": "M0015",
   "duration": 34,
   "level": "Advanced",
-  "description": "Natural Language Processing (NLP) is a subset of AI that enables machines to understand and generate human language.",
+  "description": "Natural Language Processing (NLP) is a subset of AI that enables computers to understand and generate human language.",
   "key_concepts": [
     "tokenization",
     "sentiment analysis",
     "named entity recognition"
   ],
-  "deep_learning_techniques": [
-    "recurrent neural networks (RNNs)",
-    "transformers"
-  ],
-  "practical_applications": [
+  "applications": [
     "text classification",
-    "language translation",
-    "chatbots"
+    "language translation"
   ],
-  "learning_outcome": "design and implement effective NLP solutions",
-  "generated_text": "**Module 15: NLP**\n**Duration: 34 minutes**\n**Level: Advanced**\n\nNatural Language Processing (NLP) is a subset of AI that enables machines to understand and generate human language. Key concepts include tokenization, sentiment analysis, and named entity recognition. Advanced learners will explore deep learning techniques, such as recurrent neural networks (RNNs) and transformers, to improve NLP models. Practical applications include text classification, language translation, and chatbots. By completing this module, you will be able to design and implement effective NLP solutions, leveraging AI to extract insights from unstructured data and drive business value."
+  "skills_gained": [
+    "hands-on experience with NLP",
+    "enhanced AI skills"
+  ],
+  "mcqs": [
+    {
+      "question": "What is NLP?",
+      "options": [
+        "Machine Learning",
+        "Deep Learning",
+        "Natural Language Processing",
+        "Computer Vision"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "What is tokenization?",
+      "options": [
+        "Sentiment Analysis",
+        "Named Entity Recognition",
+        "Text Classification",
+        "Breaking down text into words or tokens"
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Tokenization",
+      "back": "Breaking down text into words or tokens"
+    },
+    {
+      "front": "Sentiment Analysis",
+      "back": "Determining the emotional tone or attitude of a piece of text"
+    }
+  ],
+  "generated_text": "**Module 15: NLP**\n**Duration: 34 minutes**\n**Level: Advanced**\n\nNatural Language Processing (NLP) is a subset of AI that enables computers to understand and generate human language. Key concepts include tokenization, sentiment analysis, and named entity recognition. Advanced learners will explore NLP applications, such as text classification and language translation. Practical exercises will demonstrate how to implement NLP techniques using popular libraries and tools. By completing this module, you will gain hands-on experience with NLP and enhance your AI skills."
 }

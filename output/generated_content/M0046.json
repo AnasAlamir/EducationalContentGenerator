@@ -1,21 +1,49 @@
 {
   "module_id": "M0046",
-  "duration": 10,
-  "level": "Advanced",
-  "description": "Introduction to Artificial Intelligence fundamentals",
-  "key_concepts": [
-    "Machine Learning",
-    "Neural Networks",
-    "Deep Learning"
+  "title": "Module 46: AI Basics",
+  "duration": "10 minutes",
+  "description": "Introduction to fundamental AI concepts for advanced learners",
+  "objectives": [
+    "Define AI and its applications",
+    "Explain supervised, unsupervised, and reinforcement learning",
+    "Describe neural network structure and function"
   ],
-  "takeaways": [
-    "Defining AI and its subsets",
-    "Understanding machine learning algorithms",
-    "Recognizing AI applications in industry and research"
+  "key_takeaways": [
+    "Defining AI and its applications",
+    "Supervised, unsupervised, and reinforcement learning",
+    "Neural network structure and function"
   ],
-  "outcomes": [
-    "Identify AI opportunities and challenges",
-    "Apply basic AI concepts to work"
+  "mcqs": [
+    {
+      "question": "What is the primary goal of supervised learning?",
+      "options": [
+        "To make predictions without labeled data",
+        "To make predictions with labeled data",
+        "To discover patterns in unlabeled data",
+        "To optimize rewards in an environment"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What type of learning involves an agent learning to take actions to maximize rewards?",
+      "options": [
+        "Supervised learning",
+        "Unsupervised learning",
+        "Reinforcement learning",
+        "Deep learning"
+      ],
+      "correct_answer": "C"
+    }
   ],
-  "generated_text": "\"Module 46: AI Basics\" (10 minutes, Advanced)\n\nThis video module introduces advanced learners to the fundamentals of Artificial Intelligence. We'll explore key concepts, including machine learning, neural networks, and deep learning. Through interactive visuals and real-world examples, you'll gain a deeper understanding of AI principles and applications. Key takeaways include:\n\n* Defining AI and its subsets\n* Understanding machine learning algorithms\n* Recognizing AI applications in industry and research\n\nBy the end of this module, you'll be able to identify AI opportunities and challenges, and apply basic AI concepts to your work."
+  "flashcards": [
+    {
+      "front": "Supervised Learning",
+      "back": "A type of machine learning where the model is trained on labeled data to make predictions"
+    },
+    {
+      "front": "Neural Network",
+      "back": "A computer system inspired by the structure and function of the human brain, used for machine learning tasks"
+    }
+  ],
+  "generated_text": "\"Module 46: AI Basics\" (10-minute video)\n\nFor advanced learners, this module introduces fundamental AI concepts. We'll explore key terminology, machine learning types, and neural network basics. Through interactive visuals and examples, you'll understand how AI systems process data and make decisions. Key takeaways include:\n\n* Defining AI and its applications\n* Supervised, unsupervised, and reinforcement learning\n* Neural network structure and function\n\nBy the end of this module, you'll have a solid foundation in AI principles, enabling you to apply this knowledge in real-world scenarios."
 }

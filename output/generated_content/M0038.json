@@ -1,40 +1,48 @@
 {
   "module_id": "M0038",
-  "generated_text": "\"Module 38: Ethics\" introduces AIIP beginners to fundamental principles of ethical decision-making. This 50-minute video explores real-world scenarios, discussing privacy, bias, and transparency in AI development. Learners will understand the importance of ethics in AI and how to apply ethical considerations in their work.",
+  "duration": 50,
+  "level": "Beginner",
+  "description": "Introduction to AI ethics, covering bias, privacy, and transparency.",
+  "learning_objectives": [
+    "Identify ethical concerns in AI development",
+    "Address ethical concerns in AI implementation"
+  ],
+  "topics": [
+    "Bias",
+    "Privacy",
+    "Transparency"
+  ],
   "mcqs": [
     {
-      "question": "What is the primary focus of Module 38: Ethics?",
+      "question": "What is the primary goal of AI ethics?",
       "options": [
-        "AI development",
-        "Ethical decision-making",
-        "Data analysis",
-        "Machine learning"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What is one of the real-world scenarios discussed in the video?",
-      "options": [
-        "Natural language processing",
-        "Computer vision",
-        "Privacy, bias, and transparency in AI development",
-        "Robotics"
+        "To increase AI efficiency",
+        "To reduce AI costs",
+        "To ensure responsible AI practice",
+        "To improve AI accuracy"
       ],
       "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is an example of an ethical concern in AI development?",
+      "options": [
+        "Data privacy",
+        "Model accuracy",
+        "Computational power",
+        "Data storage"
+      ],
+      "correct_answer": "A"
     }
   ],
   "flashcards": [
     {
-      "front": "Ethics in AI",
-      "back": "The practice of considering moral principles and values in the development and use of artificial intelligence"
+      "front": "Bias",
+      "back": "The tendency of an AI system to produce unfair or discriminatory outcomes"
     },
     {
-      "front": "Bias in AI",
-      "back": "The phenomenon where AI systems perpetuate or amplify existing social biases and inequalities"
-    },
-    {
-      "front": "Transparency in AI",
-      "back": "The ability to understand and interpret the decisions and actions made by AI systems"
+      "front": "Transparency",
+      "back": "The ability to understand and interpret the decisions made by an AI system"
     }
-  ]
+  ],
+  "generated_text": "\"Module 38: Ethics\" (50min, Beginner) \nIntroduction to AI ethics, covering bias, privacy, and transparency. Learn to identify and address ethical concerns in AI development and implementation. Interactive examples and case studies illustrate key concepts, providing a foundation for responsible AI practice."
 }

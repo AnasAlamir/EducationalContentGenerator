@@ -3,19 +3,14 @@
   "duration": 53,
   "level": "Intermediate",
   "description": "Test your knowledge on ethical principles in ICAIL",
-  "topics": [
-    "bias",
-    "privacy",
-    "transparency"
+  "key_concepts": [
+    "Confidentiality and data protection",
+    "Bias and fairness in AI",
+    "Transparency and accountability"
   ],
-  "questions": 10,
-  "assessment": {
-    "type": "multiple-choice",
-    "evaluation": "real-world scenarios"
-  },
-  "outcome": {
-    "score": "assessed",
-    "review": "key takeaways"
-  },
-  "generated_text": "\"Module 47: Ethics\" (53 minutes, Intermediate)\nTest your knowledge on ethical principles in ICAIL. Answer 10 multiple-choice questions on topics such as bias, privacy, and transparency. Apply your understanding of ethical considerations in AI development and deployment. Evaluate real-world scenarios and choose the most appropriate course of action. Upon completion, assess your score and review key takeaways to enhance your ethical decision-making skills."
+  "learning_objectives": [
+    "Assess your understanding of ethical principles",
+    "Apply ethical considerations to real-world scenarios"
+  ],
+  "generated_text": "Module 47: Ethics (53 minutes, Intermediate)\nTest your knowledge on ethical principles in ICAIL. This quiz covers key concepts, including:\n- Confidentiality and data protection\n- Bias and fairness in AI\n- Transparency and accountability\nAssess your understanding and apply ethical considerations to real-world scenarios."
 }

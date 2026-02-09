@@ -1,24 +1,32 @@
 {
   "module_id": "M0007",
-  "generated_text": "\"Module 7: Prompting\" (55 minutes, Intermediate)\nIn this lab, practice effective prompting techniques to guide team members. Learn to ask open-ended questions, provide clear expectations, and encourage active listening. Through interactive exercises, develop skills to prompt critical thinking, problem-solving, and collaboration. Apply prompting strategies to real-world scenarios and receive feedback from peers.",
+  "title": "Module 7: Prompting",
+  "duration": "55 minutes",
+  "level": "Intermediate",
+  "description": "In this lab, practice effective prompting techniques to guide team discussions and decision-making. Through interactive exercises, learn to craft open-ended questions, clarify expectations, and foster collaborative problem-solving. Apply prompting skills to real-world scenarios, receiving feedback and refining your approach.",
+  "objectives": [
+    "Craft open-ended questions",
+    "Clarify expectations",
+    "Foster collaborative problem-solving"
+  ],
   "mcqs": [
     {
-      "question": "What is the primary goal of prompting techniques in a team?",
+      "question": "What is the primary goal of prompting in team discussions?",
       "options": [
-        "To provide direct instructions",
-        "To guide team members towards a solution",
-        "To discourage active listening",
-        "To promote individual work"
+        "To provide answers",
+        "To guide discussions",
+        "To make decisions",
+        "To assign tasks"
       ],
       "correct_answer": "B"
     },
     {
-      "question": "What type of questions should leaders ask to prompt critical thinking?",
+      "question": "What type of questions should be used to prompt team discussions?",
       "options": [
-        "Closed-ended questions",
-        "Open-ended questions",
-        "Leading questions",
-        "Loaded questions"
+        "Closed-ended",
+        "Open-ended",
+        "Leading",
+        "Loaded"
       ],
       "correct_answer": "B"
     }
@@ -26,11 +34,12 @@
   "flashcards": [
     {
       "front": "Prompting",
-      "back": "The act of guiding team members through open-ended questions, clear expectations, and active listening to promote critical thinking and problem-solving."
+      "back": "The act of guiding team discussions and decision-making through effective questioning and clarification"
     },
     {
-      "front": "Active Listening",
-      "back": "The process of fully concentrating on and comprehending the message being conveyed by another person, which is a key component of effective prompting."
+      "front": "Open-ended questions",
+      "back": "Questions that encourage discussion and cannot be answered with a simple 'yes' or 'no'"
     }
-  ]
+  ],
+  "generated_text": "\"Module 7: Prompting\" (55 minutes, Intermediate)\nIn this lab, practice effective prompting techniques to guide team discussions and decision-making. Through interactive exercises, learn to craft open-ended questions, clarify expectations, and foster collaborative problem-solving. Apply prompting skills to real-world scenarios, receiving feedback and refining your approach."
 }

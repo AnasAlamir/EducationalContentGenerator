@@ -1,36 +1,20 @@
 {
   "module_id": "M0042",
-  "generated_text": "\"Module 42: NLP\" (23min, Beginner)\nIntroduction to Natural Language Processing. Learn basics of NLP, text processing, and sentiment analysis. Understand how AI models interpret human language, and explore practical applications in chatbots and language translation.",
-  "mcqs": [
-    {
-      "question": "What does NLP stand for?",
-      "options": [
-        "Natural Language Toolkit",
-        "Natural Language Processing",
-        "Neural Language Programming",
-        "Network Language Protocol"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What is one of the practical applications of NLP in the given text?",
-      "options": [
-        "Image recognition",
-        "Speech recognition",
-        "Chatbots",
-        "Predictive maintenance"
-      ],
-      "correct_answer": "C"
-    }
+  "duration": 23,
+  "level": "Beginner",
+  "description": "Introduction to Natural Language Processing",
+  "topics": [
+    "NLP basics",
+    "text processing",
+    "sentiment analysis"
   ],
-  "flashcards": [
-    {
-      "front": "NLP",
-      "back": "Natural Language Processing"
-    },
-    {
-      "front": "Sentiment Analysis",
-      "back": "The process of determining the emotional tone or attitude conveyed by a piece of text"
-    }
-  ]
+  "learning_objectives": [
+    "Understand how AI models interpret human language",
+    "Learn basics of NLP"
+  ],
+  "resources": [
+    "interactive examples",
+    "visual aids"
+  ],
+  "generated_text": "\"Module 42: NLP\" (23min, Beginner)\nIntroduction to Natural Language Processing. Learn basics of NLP, text processing, and sentiment analysis. Understand how AI models interpret human language, with interactive examples and visual aids."
 }

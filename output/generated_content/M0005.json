@@ -1,40 +1,40 @@
 {
   "module_id": "M0005",
-  "generated_text": "\"Module 5: Python\" is a 34-minute video for intermediate learners. Dive into Python programming, exploring data structures, file operations, and control flows. Through interactive examples and coding demos, learn to write efficient Python scripts and apply problem-solving skills. Enhance your coding abilities and gain hands-on experience with this versatile language.",
+  "generated_text": "\"Module 5: Python\" is a 34-minute video for intermediate learners. Explore Python fundamentals, data structures, and file handling. Learn to write efficient code, use libraries, and debug programs. Practical examples and coding exercises will reinforce your understanding. By the end of this module, you'll be able to apply Python to real-world problems and improve your programming skills.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 5: Python?",
       "options": [
-        "Web development",
-        "Python programming",
-        "Data analysis",
-        "Machine learning"
+        "Advanced Python topics",
+        "Python fundamentals and data structures",
+        "Web development with Python",
+        "Machine learning with Python"
       ],
       "correct_answer": "B"
     },
     {
-      "question": "What will learners gain from Module 5: Python?",
+      "question": "What will learners be able to do by the end of Module 5: Python?",
       "options": [
-        "Theoretical knowledge of programming",
-        "Hands-on experience with Python",
-        "Certification in Python",
-        "Access to premium resources"
+        "Apply Python to real-world problems",
+        "Develop complex web applications",
+        "Create machine learning models",
+        "Design databases"
       ],
-      "correct_answer": "B"
+      "correct_answer": "A"
     }
   ],
   "flashcards": [
     {
+      "front": "Python fundamentals",
+      "back": "Basic concepts and syntax of the Python programming language"
+    },
+    {
       "front": "Data structures",
-      "back": "Organized ways to store and manage data in a program"
+      "back": "Organized collections of data, such as lists, tuples, and dictionaries"
     },
     {
-      "front": "Control flows",
-      "back": "The order in which a program executes its instructions"
-    },
-    {
-      "front": "File operations",
-      "back": "Reading, writing, and manipulating files in a program"
+      "front": "File handling",
+      "back": "The process of reading from and writing to files in Python"
     }
   ]
 }

@@ -6,12 +6,15 @@
   "topics": [
     "Confidentiality and data protection",
     "Professional conduct and boundaries",
-    "Reporting misconduct and whistleblowing"
+    "Reporting unethical behavior"
   ],
   "assessment": {
     "type": "quiz",
-    "questions": 10,
-    "skills": "ethical decision-making"
+    "questions": 10
   },
-  "generated_text": "Module 32: Ethics (87 minutes, Intermediate)\nTest your knowledge on ethical principles in the workplace. This 10-question quiz covers:\n- Confidentiality and data protection\n- Professional conduct and boundaries\n- Reporting misconduct and whistleblowing\nAssess your understanding and apply ethical decision-making skills in real-world scenarios."
+  "objectives": {
+    "understanding": "ethical principles",
+    "outcome": "receive feedback"
+  },
+  "generated_text": "Module 32: Ethics (87 minutes, Intermediate)\nTest your knowledge on ethical principles in the workplace. This 10-question quiz covers:\n- Confidentiality and data protection\n- Professional conduct and boundaries\n- Reporting unethical behavior\nComplete the quiz to assess your understanding and receive feedback."
 }

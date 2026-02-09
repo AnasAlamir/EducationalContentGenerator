@@ -1,40 +1,40 @@
 {
   "module_id": "M0039",
-  "generated_text": "\"Module 39: Python\" Lab (25 minutes, Intermediate)\nPractice writing Python scripts using variables, loops, and conditional statements. Complete exercises to:\n- Declare and manipulate variables\n- Implement if-else statements\n- Create for loops\nApply problem-solving skills to real-world scenarios, reinforcing Python fundamentals.",
+  "generated_text": "\"Module 39: Python\" Lab (25 minutes, Intermediate)\nPractice writing Python scripts using variables, loops, and functions. Complete exercises to solve real-world problems, such as data analysis and automation. Work individually to write, test, and refine your code, then share results with peers.",
   "mcqs": [
     {
-      "question": "What is the primary purpose of the 'if-else' statement in Python?",
+      "question": "What programming language is used in Module 39?",
       "options": [
-        "To declare variables",
-        "To create loops",
-        "To make decisions based on conditions",
-        "To define functions"
+        "Java",
+        "Python",
+        "C++",
+        "JavaScript"
       ],
-      "correct_answer": "C"
+      "correct_answer": "B"
     },
     {
-      "question": "Which of the following is a type of loop in Python?",
+      "question": "What is the duration of the Module 39 lab?",
       "options": [
-        "If-else statement",
-        "For loop",
-        "While loop",
-        "All of the above"
+        "15 minutes",
+        "25 minutes",
+        "30 minutes",
+        "45 minutes"
       ],
-      "correct_answer": "D"
+      "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
-      "front": "Variable",
-      "back": "A named storage location that holds a value"
+      "front": "Variables",
+      "back": "Store and manipulate data in a program"
     },
     {
-      "front": "Conditional Statement",
-      "back": "A statement that executes different blocks of code based on conditions"
+      "front": "Loops",
+      "back": "Repeat a set of instructions in a program"
     },
     {
-      "front": "Loop",
-      "back": "A control structure that repeats a block of code for a specified number of times"
+      "front": "Functions",
+      "back": "Reusable blocks of code that perform a specific task"
     }
   ]
 }
