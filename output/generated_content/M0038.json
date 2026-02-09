@@ -1,0 +1,40 @@
+{
+  "module_id": "M0038",
+  "generated_text": "\"Module 38: Ethics\" introduces AIIP beginners to fundamental principles of ethical decision-making. This 50-minute video explores real-world scenarios, discussing privacy, bias, and transparency in AI development. Learners will understand the importance of ethics in AI and how to apply ethical considerations in their work.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 38: Ethics?",
+      "options": [
+        "AI development",
+        "Ethical decision-making",
+        "Data analysis",
+        "Machine learning"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is one of the real-world scenarios discussed in the video?",
+      "options": [
+        "Natural language processing",
+        "Computer vision",
+        "Privacy, bias, and transparency in AI development",
+        "Robotics"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Ethics in AI",
+      "back": "The practice of considering moral principles and values in the development and use of artificial intelligence"
+    },
+    {
+      "front": "Bias in AI",
+      "back": "The phenomenon where AI systems perpetuate or amplify existing social biases and inequalities"
+    },
+    {
+      "front": "Transparency in AI",
+      "back": "The ability to understand and interpret the decisions and actions made by AI systems"
+    }
+  ]
+}

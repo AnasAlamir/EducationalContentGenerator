@@ -1,0 +1,17 @@
+{
+  "module_id": "M0003",
+  "duration": 80,
+  "level": "Beginner",
+  "description": "Learn data fundamentals through interactive visuals and real-world examples.",
+  "objectives": [
+    "Explore data types, sources, and analysis techniques",
+    "Discover how to collect, organize, and interpret data to inform decisions"
+  ],
+  "features": [
+    "Interactive visuals",
+    "Real-world examples",
+    "Engaging animations",
+    "Quizzes"
+  ],
+  "generated_text": "\"Module 3: Data\" (80min, Beginner)\nLearn data fundamentals through interactive visuals and real-world examples. Explore data types, sources, and analysis techniques. Discover how to collect, organize, and interpret data to inform decisions. Engaging animations and quizzes reinforce key concepts, making data analysis accessible and fun."
+}

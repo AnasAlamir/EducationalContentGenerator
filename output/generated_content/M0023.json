@@ -1,0 +1,109 @@
+{
+  "module_id": "M0023",
+  "duration": 86,
+  "level": "Beginner",
+  "description": "Test your knowledge on data-driven leadership. Answer 10 multiple-choice questions to learn how to collect, analyze, and interpret data to inform decisions.",
+  "topics": [
+    "data types",
+    "visualization",
+    "metrics"
+  ],
+  "objectives": [
+    "collect data",
+    "analyze data",
+    "interpret data"
+  ],
+  "mcqs": [
+    {
+      "question": "What is data-driven leadership?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "How do you collect data?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is data visualization?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "What are metrics in data analysis?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "Why is data interpretation important?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "How do you assess data quality?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What are the benefits of data-driven decision making?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "How do you communicate data insights?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "What are the common data analysis tools?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "generated_text": "Module 23: Data (86 minutes, Beginner)\nTest your knowledge on data-driven leadership. Answer 10 multiple-choice questions to learn how to collect, analyze, and interpret data to inform decisions. Topics include data types, visualization, and metrics. Assess your understanding and develop essential skills to lead with data."
+}

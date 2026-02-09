@@ -1,0 +1,22 @@
+{
+  "module_id": "M0019",
+  "generated_text": "\"Module 19: Prompting\" \nTest your skills: What is prompting? \nA) A tool for feedback\nB) A technique for guidance\nC) A method for evaluation\nChoose your answer. (Duration: 56 minutes)",
+  "mcqs": [
+    {
+      "question": "What is prompting?",
+      "options": [
+        "A) A tool for feedback",
+        "B) A technique for guidance",
+        "C) A method for evaluation"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Prompting",
+      "back": "A technique for guidance"
+    }
+  ],
+  "duration": 56
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "M0004",
+  "generated_text": "In \"Module 4: Prompting,\" learn the fundamentals of effective prompting. This 44-minute video covers key concepts, examples, and best practices for beginners. Discover how to craft clear and concise prompts, and explore techniques for improving response quality. Interactive scenarios and real-world applications make learning engaging and practical.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 4: Prompting?",
+      "options": [
+        "A) Crafting clear and concise prompts",
+        "B) Improving response quality",
+        "C) Creating interactive scenarios",
+        "D) All of the above"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "How long is the video in Module 4: Prompting?",
+      "options": [
+        "A) 30 minutes",
+        "B) 44 minutes",
+        "C) 1 hour",
+        "D) 2 hours"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Effective Prompting",
+      "back": "The process of crafting clear and concise prompts to achieve a specific response or outcome."
+    },
+    {
+      "front": "Response Quality",
+      "back": "The measure of how well a response meets the requirements or expectations of a given prompt or task."
+    }
+  ]
+}

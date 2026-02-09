@@ -1,0 +1,40 @@
+{
+  "module_id": "M0039",
+  "generated_text": "\"Module 39: Python\" Lab (25 minutes, Intermediate)\nPractice writing Python scripts using variables, loops, and conditional statements. Complete exercises to:\n- Declare and manipulate variables\n- Implement if-else statements\n- Create for loops\nApply problem-solving skills to real-world scenarios, reinforcing Python fundamentals.",
+  "mcqs": [
+    {
+      "question": "What is the primary purpose of the 'if-else' statement in Python?",
+      "options": [
+        "To declare variables",
+        "To create loops",
+        "To make decisions based on conditions",
+        "To define functions"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is a type of loop in Python?",
+      "options": [
+        "If-else statement",
+        "For loop",
+        "While loop",
+        "All of the above"
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Variable",
+      "back": "A named storage location that holds a value"
+    },
+    {
+      "front": "Conditional Statement",
+      "back": "A statement that executes different blocks of code based on conditions"
+    },
+    {
+      "front": "Loop",
+      "back": "A control structure that repeats a block of code for a specified number of times"
+    }
+  ]
+}

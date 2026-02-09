@@ -1,0 +1,40 @@
+{
+  "module_id": "M0025",
+  "generated_text": "\"Module 25: Data\" introduces beginners to data fundamentals in ICAIL. This 59-minute video covers data types, sources, and applications, with interactive examples and visual aids. Learn to collect, analyze, and interpret data, and understand its role in informed decision-making. Practical exercises and quizzes reinforce learning, making data concepts accessible and engaging.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 25: Data?",
+      "options": [
+        "Introduction to ICAIL",
+        "Data fundamentals",
+        "Advanced data analysis",
+        "Data visualization"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the duration of the video in Module 25: Data?",
+      "options": [
+        "30 minutes",
+        "45 minutes",
+        "59 minutes",
+        "90 minutes"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Data types",
+      "back": "Classification of data based on its characteristics"
+    },
+    {
+      "front": "Data sources",
+      "back": "Origins of data, such as primary or secondary sources"
+    },
+    {
+      "front": "Data applications",
+      "back": "Uses of data in various fields, such as business or healthcare"
+    }
+  ]
+}

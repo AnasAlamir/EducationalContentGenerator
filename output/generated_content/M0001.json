@@ -1,0 +1,22 @@
+{
+  "module_id": "M0001",
+  "generated_text": "\"Module 1: Data\" (63 minutes, Beginner)\nTest your knowledge: What is data? \nA) Facts and figures\nB) Only numbers\nC) Unrelated information\nD) Opinions\n\nCorrect answer: A) Facts and figures. Learn to identify and work with data in ICAIL.",
+  "mcqs": [
+    {
+      "question": "What is data?",
+      "options": [
+        "Facts and figures",
+        "Only numbers",
+        "Unrelated information",
+        "Opinions"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Data",
+      "back": "Facts and figures"
+    }
+  ]
+}

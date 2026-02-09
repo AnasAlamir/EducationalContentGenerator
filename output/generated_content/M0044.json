@@ -1,0 +1,40 @@
+{
+  "module_id": "M0044",
+  "generated_text": "In \"Module 44: Data\", intermediate leaders learn to effectively collect, analyze, and interpret data to inform decision-making. This 19-minute video covers key concepts, including data types, visualization tools, and statistical methods. Through real-world examples and interactive scenarios, leaders develop practical skills to drive data-driven insights and strategic action.",
+  "mcqs": [
+    {
+      "question": "What is the primary goal of collecting and analyzing data in Module 44?",
+      "options": [
+        "A) To drive data-driven insights and strategic action",
+        "B) To learn data visualization tools",
+        "C) To understand statistical methods",
+        "D) To watch a 19-minute video"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is covered in the 19-minute video of Module 44?",
+      "options": [
+        "A) Only data types",
+        "B) Only visualization tools",
+        "C) Only statistical methods",
+        "D) Key concepts, including data types, visualization tools, and statistical methods"
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Data Types",
+      "back": "Classification of data into different categories"
+    },
+    {
+      "front": "Visualization Tools",
+      "back": "Software or methods used to represent data in a graphical format"
+    },
+    {
+      "front": "Statistical Methods",
+      "back": "Techniques used to analyze and interpret data"
+    }
+  ]
+}

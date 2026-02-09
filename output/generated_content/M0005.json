@@ -1,0 +1,40 @@
+{
+  "module_id": "M0005",
+  "generated_text": "\"Module 5: Python\" is a 34-minute video for intermediate learners. Dive into Python programming, exploring data structures, file operations, and control flows. Through interactive examples and coding demos, learn to write efficient Python scripts and apply problem-solving skills. Enhance your coding abilities and gain hands-on experience with this versatile language.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 5: Python?",
+      "options": [
+        "Web development",
+        "Python programming",
+        "Data analysis",
+        "Machine learning"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What will learners gain from Module 5: Python?",
+      "options": [
+        "Theoretical knowledge of programming",
+        "Hands-on experience with Python",
+        "Certification in Python",
+        "Access to premium resources"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Data structures",
+      "back": "Organized ways to store and manage data in a program"
+    },
+    {
+      "front": "Control flows",
+      "back": "The order in which a program executes its instructions"
+    },
+    {
+      "front": "File operations",
+      "back": "Reading, writing, and manipulating files in a program"
+    }
+  ]
+}

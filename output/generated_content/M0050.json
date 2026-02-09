@@ -1,0 +1,53 @@
+{
+  "module_id": "M0050",
+  "duration": 80,
+  "level": "Beginner",
+  "description": "Introduction to data analysis for leaders",
+  "learning_objectives": [
+    "Collect data",
+    "Interpret data",
+    "Make informed decisions with data"
+  ],
+  "key_topics": [
+    "Data types",
+    "Visualization",
+    "Basic statistics"
+  ],
+  "mcqs": [
+    {
+      "question": "What is the primary goal of data analysis for leaders?",
+      "options": [
+        "To collect data",
+        "To make informed decisions",
+        "To create visualizations",
+        "To learn basic statistics"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which of the following is a key topic in Module 50: Data?",
+      "options": [
+        "Advanced statistics",
+        "Data visualization",
+        "Machine learning",
+        "Data types"
+      ],
+      "correct_answer": "D"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Data types",
+      "back": "Classification of data into different categories"
+    },
+    {
+      "front": "Visualization",
+      "back": "Representation of data in a graphical format"
+    },
+    {
+      "front": "Basic statistics",
+      "back": "Mathematical methods for collecting and analyzing data"
+    }
+  ],
+  "generated_text": "\"Module 50: Data\" (80min, Beginner) \nIntroduction to data analysis for leaders. Learn to collect, interpret, and make informed decisions with data. Key topics: data types, visualization, and basic statistics. Practical examples and interactive exercises included."
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "M0049",
+  "generated_text": "**Module 49: Ethics (38 minutes, Advanced)**\n\nTest your knowledge on AI ethics. Choose the correct answer:\n\n1. What is the primary concern of AI bias?\na) Data quality\nb) Algorithm transparency\nc) Social inequality\nd) User experience\n\n2. Which principle guides AI development to prioritize human well-being?\na) Accountability\nb) Beneficence\nc) Non-maleficence\nd) Autonomy\n\nSelect your answers to proceed. This quiz assesses your understanding of ethical considerations in AI development and implementation.",
+  "mcqs": [
+    {
+      "question": "What is the primary concern of AI bias?",
+      "options": [
+        "Data quality",
+        "Algorithm transparency",
+        "Social inequality",
+        "User experience"
+      ],
+      "correct_answer": "c"
+    },
+    {
+      "question": "Which principle guides AI development to prioritize human well-being?",
+      "options": [
+        "Accountability",
+        "Beneficence",
+        "Non-maleficence",
+        "Autonomy"
+      ],
+      "correct_answer": "b"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "AI Bias",
+      "back": "The primary concern of AI bias is social inequality."
+    },
+    {
+      "front": "Beneficence",
+      "back": "A principle that guides AI development to prioritize human well-being."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "M0002",
+  "generated_text": "\"Module 2: Ethics\" (40min, Beginner)\nIn this lab, explore ethical principles in a practical setting. Complete interactive exercises to identify and apply ethical standards in real-world scenarios. Discuss case studies and collaborate with peers to develop a shared understanding of ethical decision-making.",
+  "mcqs": [
+    {
+      "question": "What is the main focus of Module 2: Ethics?",
+      "options": [
+        "To learn programming languages",
+        "To explore ethical principles in a practical setting",
+        "To develop software applications",
+        "To understand data structures"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What activity will you do to develop a shared understanding of ethical decision-making?",
+      "options": [
+        "Complete a quiz",
+        "Discuss case studies and collaborate with peers",
+        "Watch a video",
+        "Read a book"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Ethics",
+      "back": "Moral principles that guide behavior and decision-making"
+    },
+    {
+      "front": "Case studies",
+      "back": "Real-world scenarios used to illustrate and discuss ethical principles"
+    }
+  ]
+}

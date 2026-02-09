@@ -1,0 +1,40 @@
+{
+  "module_id": "M0026",
+  "generated_text": "\"Module 26: Data\" is a 35-minute advanced video training. Learn to collect, analyze, and visualize data using expert tools. Topics include data mining, statistical modeling, and data storytelling. Through interactive examples and case studies, discover how to extract insights and drive business decisions. Key takeaways: \n\n* Apply data analysis techniques\n* Create interactive dashboards\n* Communicate complex data insights effectively\n\nEnhance your data skills and stay ahead in the field.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 26: Data?",
+      "options": [
+        "Data collection and analysis",
+        "Data visualization and storytelling",
+        "Statistical modeling and machine learning",
+        "All of the above"
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "question": "What is one of the key takeaways from Module 26: Data?",
+      "options": [
+        "Apply data analysis techniques",
+        "Create interactive reports",
+        "Develop machine learning models",
+        "Design databases"
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Data Mining",
+      "back": "The process of automatically discovering patterns and relationships in large datasets"
+    },
+    {
+      "front": "Data Storytelling",
+      "back": "The process of communicating insights and findings from data analysis in a clear and compelling way"
+    },
+    {
+      "front": "Statistical Modeling",
+      "back": "The use of statistical techniques to develop mathematical models that describe and predict real-world phenomena"
+    }
+  ]
+}

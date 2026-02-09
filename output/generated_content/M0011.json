@@ -1,0 +1,44 @@
+{
+  "module_id": "M0011",
+  "generated_text": "\"Module 11: Python\" lab is an 81-minute intermediate training. Practice writing Python scripts, using variables, and control structures. Work on exercises to reinforce concepts, such as data types and functions. Apply problem-solving skills to real-world scenarios, enhancing your coding abilities.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 11: Python lab?",
+      "options": [
+        "Writing Python scripts",
+        "Using databases",
+        "Creating web applications",
+        "Designing algorithms"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the duration of the Module 11: Python lab?",
+      "options": [
+        "60 minutes",
+        "81 minutes",
+        "90 minutes",
+        "120 minutes"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Variables",
+      "back": "Store and manipulate data in a program"
+    },
+    {
+      "front": "Control structures",
+      "back": "Used to control the flow of a program's execution"
+    },
+    {
+      "front": "Data types",
+      "back": "Classification of data based on its format and usage"
+    },
+    {
+      "front": "Functions",
+      "back": "Reusable blocks of code that perform a specific task"
+    }
+  ]
+}

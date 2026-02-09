@@ -1,0 +1,21 @@
+{
+  "module_id": "M0045",
+  "generated_text": "\"Module 45: Prompting\" (50 minutes, Intermediate)\nTest your skills: What is prompting in tools? A) A command, B) A feature, or C) A technique? Choose your answer to learn about effective prompting strategies and improve your workflow.",
+  "mcqs": [
+    {
+      "question": "What is prompting in tools?",
+      "options": [
+        "A) A command",
+        "B) A feature",
+        "C) A technique"
+      ],
+      "correct_answer": "C"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Prompting",
+      "back": "A technique used to learn about effective prompting strategies and improve workflow"
+    }
+  ]
+}

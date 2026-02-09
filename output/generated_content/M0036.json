@@ -1,0 +1,40 @@
+{
+  "module_id": "M0036",
+  "generated_text": "\"Module 36: Data\" explores tools for collecting and analyzing data. Learn to identify data types, create surveys, and use software to organize and visualize results. This 84-minute module is designed for intermediate learners, providing practical skills to enhance data-driven decision making.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 36: Data?",
+      "options": [
+        "Tools for collecting and analyzing data",
+        "Introduction to programming languages",
+        "Data visualization techniques",
+        "Survey creation methods"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the duration of Module 36: Data?",
+      "options": [
+        "60 minutes",
+        "84 minutes",
+        "120 minutes",
+        "180 minutes"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Data Types",
+      "back": "Classification of data into different categories"
+    },
+    {
+      "front": "Surveys",
+      "back": "Research tools used to collect data from participants"
+    },
+    {
+      "front": "Data-Driven Decision Making",
+      "back": "The process of making decisions based on data analysis and interpretation"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "module_id": "M0029",
+  "generated_text": "**Module 29: Python**\n**Lab (68 minutes, Advanced)**\n\nIn this hands-on lab, advanced learners will dive into Python programming. You will:\n\n* Implement complex data structures and algorithms\n* Practice working with libraries like NumPy and Pandas\n* Develop a real-world project, applying Python to data analysis and visualization\n\nThrough guided exercises and independent practice, you will refine your Python skills and troubleshoot common issues. By the end of this lab, you will be able to apply Python to solve complex problems and improve your coding efficiency.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 29: Python?",
+      "options": [
+        "Web Development",
+        "Data Analysis and Visualization",
+        "Machine Learning",
+        "Networking"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "Which libraries will you practice working with in this lab?",
+      "options": [
+        "Matplotlib and Scikit-learn",
+        "NumPy and Pandas",
+        "TensorFlow and Keras",
+        "Django and Flask"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "NumPy",
+      "back": "A library for efficient numerical computation in Python"
+    },
+    {
+      "front": "Pandas",
+      "back": "A library for data manipulation and analysis in Python"
+    }
+  ]
+}

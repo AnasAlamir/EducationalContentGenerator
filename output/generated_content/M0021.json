@@ -1,0 +1,36 @@
+{
+  "module_id": "M0021",
+  "generated_text": "\"Module 21: Prompting\" (13 minutes, Beginner)\nIn this lab, practice effective prompting techniques to guide team discussions. Learn to ask open-ended questions, clarify expectations, and encourage participation. Engage in interactive exercises to develop your prompting skills and enhance team collaboration.",
+  "mcqs": [
+    {
+      "question": "What is the primary goal of prompting techniques in team discussions?",
+      "options": [
+        "To dominate the conversation",
+        "To guide team discussions",
+        "To avoid participation",
+        "To clarify expectations only"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What type of questions should be asked to encourage participation?",
+      "options": [
+        "Closed-ended questions",
+        "Open-ended questions",
+        "Leading questions",
+        "Loaded questions"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Prompting",
+      "back": "The act of guiding team discussions through effective questioning and clarification techniques"
+    },
+    {
+      "front": "Open-ended questions",
+      "back": "Questions that encourage discussion and cannot be answered with a simple 'yes' or 'no'"
+    }
+  ]
+}

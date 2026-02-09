@@ -1,0 +1,36 @@
+{
+  "module_id": "M0013",
+  "generated_text": "\"Module 13: AI Basics\" \nIntroduction to Artificial Intelligence (AI) concepts. Learn basic AI terminology, types, and applications. Understand machine learning and neural networks. Duration: 40 minutes. Start your AI journey here.",
+  "mcqs": [
+    {
+      "question": "What does AI stand for?",
+      "options": [
+        "Artificial Instinct",
+        "Artificial Intelligence",
+        "Automatic Innovation",
+        "Advanced Insight"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the duration of Module 13: AI Basics?",
+      "options": [
+        "30 minutes",
+        "40 minutes",
+        "50 minutes",
+        "60 minutes"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Artificial Intelligence",
+      "back": "The development of computer systems able to perform tasks that typically require human intelligence."
+    },
+    {
+      "front": "Machine Learning",
+      "back": "A subset of artificial intelligence that involves training algorithms to learn from data and make predictions or decisions."
+    }
+  ]
+}

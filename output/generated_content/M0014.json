@@ -1,0 +1,24 @@
+{
+  "module_id": "M0014",
+  "duration": 89,
+  "level": "Intermediate",
+  "description": "Test your leadership ethics knowledge",
+  "assessment": {
+    "type": "multiple-choice",
+    "questions": 10,
+    "topics": [
+      "moral principles",
+      "decision-making",
+      "accountability"
+    ]
+  },
+  "learning_objectives": [
+    "Apply ethical frameworks to real-world scenarios",
+    "Evaluate understanding of responsible leadership"
+  ],
+  "evaluation_criteria": [
+    "consequences",
+    "stakeholder impact"
+  ],
+  "generated_text": "\"Module 14: Ethics\" (89 minutes, Intermediate)\nTest your leadership ethics knowledge. Answer 10 multiple-choice questions on moral principles, decision-making, and accountability. Apply ethical frameworks to real-world scenarios, considering consequences and stakeholder impact. Evaluate your understanding of responsible leadership and make informed choices."
+}

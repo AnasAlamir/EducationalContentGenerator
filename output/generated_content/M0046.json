@@ -1,0 +1,21 @@
+{
+  "module_id": "M0046",
+  "duration": 10,
+  "level": "Advanced",
+  "description": "Introduction to Artificial Intelligence fundamentals",
+  "key_concepts": [
+    "Machine Learning",
+    "Neural Networks",
+    "Deep Learning"
+  ],
+  "takeaways": [
+    "Defining AI and its subsets",
+    "Understanding machine learning algorithms",
+    "Recognizing AI applications in industry and research"
+  ],
+  "outcomes": [
+    "Identify AI opportunities and challenges",
+    "Apply basic AI concepts to work"
+  ],
+  "generated_text": "\"Module 46: AI Basics\" (10 minutes, Advanced)\n\nThis video module introduces advanced learners to the fundamentals of Artificial Intelligence. We'll explore key concepts, including machine learning, neural networks, and deep learning. Through interactive visuals and real-world examples, you'll gain a deeper understanding of AI principles and applications. Key takeaways include:\n\n* Defining AI and its subsets\n* Understanding machine learning algorithms\n* Recognizing AI applications in industry and research\n\nBy the end of this module, you'll be able to identify AI opportunities and challenges, and apply basic AI concepts to your work."
+}

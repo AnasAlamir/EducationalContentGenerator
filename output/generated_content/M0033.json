@@ -1,0 +1,16 @@
+{
+  "module_id": "M0033",
+  "duration": 67,
+  "level": "Intermediate",
+  "description": "Test your knowledge of AI fundamentals. This quiz covers key concepts, including machine learning, neural networks, and data analysis. Evaluate your understanding of AI applications and limitations.",
+  "assessment": {
+    "type": "multiple-choice",
+    "num_questions": 10
+  },
+  "topics": [
+    "machine learning",
+    "neural networks",
+    "data analysis"
+  ],
+  "generated_text": "\"Module 33: AI Basics\" (67 minutes, Intermediate)\nTest your knowledge of AI fundamentals. This quiz covers key concepts, including machine learning, neural networks, and data analysis. Evaluate your understanding of AI applications and limitations. Complete 10 multiple-choice questions to assess your skills and identify areas for improvement."
+}

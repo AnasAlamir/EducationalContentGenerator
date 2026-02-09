@@ -1,0 +1,40 @@
+{
+  "module_id": "M0034",
+  "generated_text": "In \"Module 34: Ethics,\" intermediate learners explore key principles and practices. This 78-minute video covers real-world scenarios, case studies, and interactive discussions to promote ethical decision-making in the workplace. Learners will analyze situations, identify potential issues, and develop strategies to address them, enhancing their critical thinking and problem-solving skills.",
+  "mcqs": [
+    {
+      "question": "What is the primary focus of Module 34: Ethics?",
+      "options": [
+        "A) Technical skills",
+        "B) Ethical decision-making",
+        "C) Communication skills",
+        "D) Leadership skills"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What type of content does the 78-minute video cover?",
+      "options": [
+        "A) Theoretical concepts only",
+        "B) Real-world scenarios and case studies",
+        "C) Historical events",
+        "D) Cultural differences"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Ethics",
+      "back": "The study of moral principles and values that guide behavior and decision-making"
+    },
+    {
+      "front": "Critical thinking",
+      "back": "The ability to analyze information, evaluate evidence, and form judgments"
+    },
+    {
+      "front": "Problem-solving",
+      "back": "The process of identifying and addressing problems in a logical and methodical way"
+    }
+  ]
+}
