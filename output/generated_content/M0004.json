@@ -1,40 +1,36 @@
 {
   "module_id": "M0004",
-  "generated_text": "In \"Module 4: Prompting\", learn the fundamentals of effective prompting. This 44-minute video covers key concepts, including prompt types, design principles, and best practices. Through interactive examples and demonstrations, beginner learners will gain practical skills to craft clear and concise prompts, enhancing communication and productivity.",
+  "generated_text": "\"Module 4: Prompting\" (44min, Beginner)\nLearn effective prompting techniques to engage learners. This video covers types of prompts, crafting clear questions, and using feedback to guide learning. Practical examples and demonstrations will help you create interactive and educational experiences.",
   "mcqs": [
     {
-      "question": "What is the primary focus of Module 4: Prompting?",
+      "question": "What is the main topic of Module 4?",
       "options": [
-        "Effective communication",
-        "Productivity enhancement",
-        "Prompting fundamentals",
-        "Design principles"
+        "Prompting",
+        "Engagement",
+        "Feedback",
+        "Learning"
       ],
-      "correct_answer": "C"
+      "correct_answer": "A"
     },
     {
-      "question": "What is the duration of the video in Module 4: Prompting?",
+      "question": "What will practical examples and demonstrations help you create?",
       "options": [
-        "30 minutes",
-        "44 minutes",
-        "60 minutes",
-        "90 minutes"
+        "Passive experiences",
+        "Interactive experiences",
+        "Theoretical models",
+        "Practical tests"
       ],
       "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
-      "front": "Prompt types",
-      "back": "Different categories of prompts used for specific purposes"
+      "front": "Prompting",
+      "back": "Techniques to engage learners"
     },
     {
-      "front": "Design principles",
-      "back": "Guidelines for creating effective and clear prompts"
-    },
-    {
-      "front": "Best practices",
-      "back": "Recommended approaches for crafting and using prompts"
+      "front": "Clear questions",
+      "back": "Essential for effective prompting"
     }
   ]
 }

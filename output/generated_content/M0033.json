@@ -2,16 +2,16 @@
   "module_id": "M0033",
   "duration": 67,
   "level": "Intermediate",
-  "description": "Test your knowledge of Artificial Intelligence fundamentals",
+  "description": "Test your knowledge of Artificial Intelligence fundamentals.",
   "topics": [
     "machine learning",
-    "neural networks",
-    "data analysis"
+    "natural language processing",
+    "computer vision"
   ],
-  "skills_assessed": [
-    "Defining AI and its types",
-    "Identifying AI-powered tools",
-    "Recognizing AI challenges and ethics"
+  "objectives": [
+    "Evaluate AI applications",
+    "Understand AI benefits and limitations",
+    "Apply AI principles to real-world scenarios"
   ],
-  "generated_text": "\"Module 33: AI Basics\" (67 minutes, Intermediate)\nTest your knowledge of Artificial Intelligence fundamentals. This 67-minute quiz covers key concepts, including machine learning, neural networks, and data analysis. Evaluate your understanding of AI applications and limitations. Assess your skills in:\n- Defining AI and its types\n- Identifying AI-powered tools\n- Recognizing AI challenges and ethics."
+  "generated_text": "\"Module 33: AI Basics\" (67 minutes, Intermediate)\nTest your knowledge of Artificial Intelligence fundamentals. This quiz covers key concepts, including machine learning, natural language processing, and computer vision. Evaluate your understanding of AI applications, benefits, and limitations. Assess your ability to apply AI principles to real-world scenarios. Complete this quiz to reinforce your AI basics and prepare for advanced topics."
 }

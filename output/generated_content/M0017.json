@@ -1,40 +1,22 @@
 {
   "module_id": "M0017",
-  "generated_text": "\"Module 17: Ethics\" (22 minutes, Intermediate). Explore leadership ethics, learning to recognize and resolve moral dilemmas. Key topics: personal values, organizational culture, and decision-making frameworks. Practical scenarios and real-world examples illustrate ethical principles, guiding you to lead with integrity and responsibility.",
-  "mcqs": [
+  "duration": 22,
+  "level": "Intermediate",
+  "description": "Explore leadership ethics, focusing on decision-making and accountability. Learn to recognize biases, prioritize transparency, and foster a culture of integrity. Practical scenarios and real-world examples will guide you in developing a strong moral compass, essential for effective leadership.",
+  "learning_objectives": [
+    "Recognize biases in decision-making",
+    "Prioritize transparency in leadership",
+    "Foster a culture of integrity"
+  ],
+  "key_concepts": [
     {
-      "question": "What is the primary focus of Module 17: Ethics?",
-      "options": [
-        "A) Financial management",
-        "B) Leadership ethics",
-        "C) Marketing strategies",
-        "D) Human resource management"
-      ],
-      "correct_answer": "B"
+      "concept": "Leadership Ethics",
+      "definition": "The moral principles that guide leaders in making decisions"
     },
     {
-      "question": "Which of the following is a key topic covered in Module 17: Ethics?",
-      "options": [
-        "A) Supply chain management",
-        "B) Organizational culture",
-        "C) Information technology",
-        "D) Accounting principles"
-      ],
-      "correct_answer": "B"
+      "concept": "Moral Compass",
+      "definition": "A personal guide for making ethical decisions"
     }
   ],
-  "flashcards": [
-    {
-      "front": "Personal values",
-      "back": "The principles and standards that guide an individual's behavior and decision-making"
-    },
-    {
-      "front": "Organizational culture",
-      "back": "The shared values, norms, and beliefs that shape the behavior and actions of an organization"
-    },
-    {
-      "front": "Decision-making frameworks",
-      "back": "Structured approaches used to evaluate options and make informed decisions"
-    }
-  ]
+  "generated_text": "\"Module 17: Ethics\" (22 minutes, Intermediate)\nExplore leadership ethics, focusing on decision-making and accountability. Learn to recognize biases, prioritize transparency, and foster a culture of integrity. Practical scenarios and real-world examples will guide you in developing a strong moral compass, essential for effective leadership."
 }

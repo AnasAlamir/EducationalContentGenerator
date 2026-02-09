@@ -3,25 +3,18 @@
   "module_name": "CV",
   "duration": 17,
   "level": "Advanced",
-  "objectives": [
-    "Optimize CV layout",
-    "Tailor content",
-    "Use action verbs",
-    "Proofread"
+  "steps": [
+    "Access the CV template on the lab platform",
+    "Customize the template with your information, utilizing formatting options",
+    "Insert relevant sections, such as a summary statement and skill highlights",
+    "Experiment with layout and design elements to enhance visual appeal",
+    "Save and export your CV as a PDF"
   ],
-  "tools": [
-    "Word processing"
+  "objective": "Create a professional CV using advanced tools",
+  "skills": [
+    "Formatting",
+    "Layout design",
+    "Visual appeal enhancement"
   ],
-  "techniques": [
-    "Clear headings",
-    "Bullet points",
-    "Relevant experience",
-    "Impactful verbs"
-  ],
-  "best_practices": [
-    "Concise CV",
-    "Error-free formatting",
-    "Effective grammar"
-  ],
-  "generated_text": "**Module 8: CV (17 minutes, Advanced)**\n\nIn this lab, you'll refine your CV creation skills. Open your preferred word processing tool and follow along. \n\n1. **Optimize your layout**: Use clear headings and bullet points to enhance readability.\n2. **Tailor your content**: Emphasize relevant experience and skills.\n3. **Use action verbs**: Describe achievements with impactful verbs like \"managed\" and \"created\".\n4. **Proofread**: Ensure error-free formatting and grammar.\n\nPractice creating a concise, effective CV by applying these techniques."
+  "generated_text": "**Module 8: CV (17 minutes, Advanced)**\nIn this lab, you'll create a professional CV using advanced tools. \n1. Access the CV template on the lab platform.\n2. Customize the template with your information, utilizing formatting options.\n3. Insert relevant sections, such as a summary statement and skill highlights.\n4. Experiment with layout and design elements to enhance visual appeal.\n5. Save and export your CV as a PDF.\nPractice applying advanced formatting techniques to create a polished, professional CV."
 }

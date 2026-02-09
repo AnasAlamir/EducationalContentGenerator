@@ -1,36 +1,34 @@
 {
   "module_id": "M0049",
-  "generated_text": "**Module 49: Ethics (38 minutes, Advanced)**\n\nTest your knowledge on AI ethics. Choose the correct answer:\n\n1. What is the primary concern of AI bias?\na) Data quality\nb) Algorithm transparency\nc) Social inequality\nd) User experience\n\n2. Which principle guides AI development to prioritize human well-being?\na) Accountability\nb) Beneficence\nc) Non-maleficence\nd) Autonomy\n\nSelect your answers to proceed. This quiz assesses your understanding of ethical considerations in AI development and implementation.",
+  "generated_text": "**Module 49: Ethics (38 minutes, Advanced)**\n\nTest your knowledge on AI ethics. Choose the correct answer:\n\n1. What is the primary goal of AI ethics?\na) Profit maximization\nb) Human well-being\nc) Technical advancement\n\nAnswer: b) Human well-being\n\n2. Which principle ensures AI systems are transparent and explainable?\na) Accountability\nb) Fairness\nc) Explainability\n\nAnswer: c) Explainability\n\nAssess your understanding of AI ethics and its applications. Evaluate your answers to refine your knowledge and decision-making skills.",
   "mcqs": [
     {
-      "question": "What is the primary concern of AI bias?",
+      "question": "What is the primary goal of AI ethics?",
       "options": [
-        "Data quality",
-        "Algorithm transparency",
-        "Social inequality",
-        "User experience"
+        "Profit maximization",
+        "Human well-being",
+        "Technical advancement"
       ],
-      "correct_answer": "c"
+      "correct_answer": "Human well-being"
     },
     {
-      "question": "Which principle guides AI development to prioritize human well-being?",
+      "question": "Which principle ensures AI systems are transparent and explainable?",
       "options": [
         "Accountability",
-        "Beneficence",
-        "Non-maleficence",
-        "Autonomy"
+        "Fairness",
+        "Explainability"
       ],
-      "correct_answer": "b"
+      "correct_answer": "Explainability"
     }
   ],
   "flashcards": [
     {
-      "front": "AI Bias",
-      "back": "The primary concern of AI bias is social inequality"
+      "front": "Primary goal of AI ethics",
+      "back": "Human well-being"
     },
     {
-      "front": "Human Well-being in AI",
-      "back": "The principle that guides AI development to prioritize human well-being is Beneficence"
+      "front": "Principle for transparent and explainable AI systems",
+      "back": "Explainability"
     }
   ]
 }

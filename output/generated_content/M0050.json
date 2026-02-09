@@ -2,49 +2,52 @@
   "module_id": "M0050",
   "duration": 80,
   "level": "Beginner",
-  "description": "Introduction to data-driven leadership. Learn to collect, analyze, and interpret data to inform decisions.",
+  "description": "Introduction to data analysis for leaders",
   "objectives": [
     "Collect data",
-    "Analyze data",
-    "Interpret data"
+    "Interpret data",
+    "Apply data to inform decisions"
   ],
-  "study_material": {
-    "text": "\"Module 50: Data\" (80min, Beginner) \nIntroduction to data-driven leadership. Learn to collect, analyze, and interpret data to inform decisions. Practical examples and visual aids will guide you through the process, empowering you to lead with data confidence.",
-    "visual_aids": "Practical examples"
-  },
-  "assessment": {
-    "mcqs": [
-      {
-        "question": "What is the primary goal of data-driven leadership?",
-        "options": [
-          "A) To collect data",
-          "B) To analyze and interpret data to inform decisions",
-          "C) To lead without data",
-          "D) To ignore data"
-        ],
-        "correct_answer": "B"
-      },
-      {
-        "question": "What will guide you through the process of data-driven leadership?",
-        "options": [
-          "A) Theoretical examples",
-          "B) Practical examples and visual aids",
-          "C) Text-based instructions",
-          "D) Audio instructions"
-        ],
-        "correct_answer": "B"
-      }
-    ],
-    "flashcards": [
-      {
-        "front": "Data-driven leadership",
-        "back": "Leading with data confidence by collecting, analyzing, and interpreting data to inform decisions"
-      },
-      {
-        "front": "Key concept",
-        "back": "Data confidence"
-      }
-    ]
-  },
-  "generated_text": "\"Module 50: Data\" (80min, Beginner) \nIntroduction to data-driven leadership. Learn to collect, analyze, and interpret data to inform decisions. Practical examples and visual aids will guide you through the process, empowering you to lead with data confidence."
+  "key_topics": [
+    "Data types",
+    "Visualization",
+    "Basic statistics"
+  ],
+  "mcqs": [
+    {
+      "question": "What is the primary purpose of collecting data in leadership?",
+      "options": [
+        "A) To inform decisions",
+        "B) To visualize trends",
+        "C) To analyze statistics",
+        "D) To collect feedback"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "Which of the following is a key topic in data analysis for leaders?",
+      "options": [
+        "A) Advanced calculus",
+        "B) Data visualization",
+        "C) Machine learning",
+        "D) Web development"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Data types",
+      "back": "Classification of data into different categories"
+    },
+    {
+      "front": "Visualization",
+      "back": "The process of creating graphical representations of data"
+    },
+    {
+      "front": "Basic statistics",
+      "back": "Mathematical methods for collecting, analyzing, and interpreting data"
+    }
+  ],
+  "generated_text": "\"Module 50: Data\" (80 minutes, Beginner) \nIntroduction to data analysis for leaders. Learn to collect, interpret, and apply data to inform decisions. Key topics: data types, visualization, and basic statistics. Practical examples and interactive exercises included."
 }

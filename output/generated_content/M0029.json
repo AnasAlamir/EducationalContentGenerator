@@ -1,19 +1,19 @@
 {
   "module_id": "M0029",
-  "module_name": "Python",
-  "lab_details": {
-    "duration": 68,
-    "level": "Advanced"
-  },
-  "learning_objectives": [
-    "Implement complex data structures and algorithms",
-    "Practice object-oriented programming concepts",
-    "Work with external libraries and APIs",
-    "Debug and optimize code"
+  "duration": 68,
+  "level": "Advanced",
+  "description": "In this lab, advanced learners will dive into Python's advanced concepts.",
+  "topics": [
+    "Implementing decorators and generators",
+    "Using lambda functions and map/reduce",
+    "Working with advanced data structures (sets, dictionaries)"
   ],
-  "outcomes": [
-    "Design and implement efficient Python solutions to real-world problems",
-    "Reinforce understanding of Python and develop practical skills"
+  "objectives": [
+    "Write efficient, Pythonic code",
+    "Optimize existing programs"
   ],
-  "generated_text": "**Module 29: Python**\n**Lab (68 minutes, Advanced)**\n\nIn this hands-on lab, advanced learners will dive into Python programming. You will:\n\n* Implement complex data structures and algorithms\n* Practice object-oriented programming concepts\n* Work with external libraries and APIs\n* Debug and optimize code\n\nThrough guided exercises and independent practice, you will reinforce your understanding of Python and develop practical skills. By the end of this lab, you will be able to design and implement efficient Python solutions to real-world problems."
+  "requirements": [
+    "laptop"
+  ],
+  "generated_text": "**Module 29: Python**\n**Duration: 68 minutes**\n**Level: Advanced**\n\nIn this lab, advanced learners will dive into Python's advanced concepts. You will practice:\n\n* Implementing decorators and generators\n* Using lambda functions and map/reduce\n* Working with advanced data structures (sets, dictionaries)\n\nThrough hands-on exercises, you will apply these concepts to real-world problems. By the end of this module, you will be able to write efficient, Pythonic code and optimize existing programs. Bring your laptop and get ready to code!"
 }

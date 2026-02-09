@@ -1,36 +1,23 @@
 {
   "module_id": "M0027",
-  "generated_text": "\"Module 27: Ethics\" (88 minutes, Beginner)\nTest your knowledge on ethical tools use. Quiz: \n1. What is plagiarism?\n2. Why cite sources?\nChoose answers to learn ethics basics.",
+  "generated_text": "Module 27: Ethics (88 minutes, Beginner)\nTest your knowledge: \n1. What is ethics in the workplace?\nA) Rules\nB) Values\nC) Policies\nAnswer: B) Values. Learn to apply ethical principles in a professional setting.",
   "mcqs": [
     {
-      "question": "What is plagiarism?",
+      "question": "What is ethics in the workplace?",
       "options": [
-        "Using others work without credit",
-        "Using own work without credit",
-        "Citing sources properly",
-        "None of the above"
+        "Rules",
+        "Values",
+        "Policies"
       ],
-      "correct_answer": "A"
-    },
-    {
-      "question": "Why cite sources?",
-      "options": [
-        "To avoid plagiarism",
-        "To show off knowledge",
-        "To confuse readers",
-        "To shorten the text"
-      ],
-      "correct_answer": "A"
+      "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
-      "front": "Plagiarism",
-      "back": "Using others work without giving them credit"
-    },
-    {
-      "front": "Citing sources",
-      "back": "Giving credit to the original author of an idea or work"
+      "front": "Ethics in the workplace",
+      "back": "Values"
     }
-  ]
+  ],
+  "duration": 88,
+  "level": "Beginner"
 }

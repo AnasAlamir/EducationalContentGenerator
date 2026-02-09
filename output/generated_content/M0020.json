@@ -1,18 +1,40 @@
 {
   "module_id": "M0020",
-  "title": "Module 20: NLP",
-  "description": "Learn Natural Language Processing tools to analyze and generate human-like text.",
-  "duration": 29,
-  "topics": [
-    "sentiment analysis",
-    "text classification",
-    "language modeling"
+  "generated_text": "\"Module 20: NLP\" \nDiscover Natural Language Processing (NLP) tools. Learn to analyze and generate human language, improving communication and automation. Apply NLP to text and speech, enhancing workflow efficiency.",
+  "mcqs": [
+    {
+      "question": "What does NLP stand for?",
+      "options": [
+        "Natural Language Toolkit",
+        "Natural Language Processing",
+        "Neural Language Programming",
+        "Network Language Protocol"
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "question": "What is the primary goal of NLP?",
+      "options": [
+        "To improve computer vision",
+        "To analyze and generate human language",
+        "To enhance database management",
+        "To optimize network security"
+      ],
+      "correct_answer": "B"
+    }
   ],
-  "applications": [
-    "chatbots",
-    "language translation"
-  ],
-  "level": "Intermediate",
-  "tools": "NLP",
-  "generated_text": "Module 20: NLP. Learn Natural Language Processing tools to analyze and generate human-like text. Discover techniques for sentiment analysis, text classification, and language modeling. Apply NLP to real-world problems, such as chatbots and language translation. Duration: 29 minutes."
+  "flashcards": [
+    {
+      "front": "NLP",
+      "back": "Natural Language Processing"
+    },
+    {
+      "front": "Text Analysis",
+      "back": "The process of extracting meaningful information from text data"
+    },
+    {
+      "front": "Speech Recognition",
+      "back": "The ability of a machine to identify and translate spoken language into text"
+    }
+  ]
 }

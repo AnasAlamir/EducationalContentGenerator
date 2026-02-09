@@ -1,40 +1,44 @@
 {
   "module_id": "M0039",
-  "generated_text": "\"Module 39: Python\" Lab (25 minutes, Intermediate)\nPractice writing Python scripts using variables, loops, and functions. Complete exercises to solve real-world problems, such as data analysis and automation. Work individually to write, test, and refine your code, then share results with peers.",
+  "generated_text": "\"Module 39: Python\" Lab (25 minutes, Intermediate)\nPractice writing Python scripts using variables, loops, and functions. Complete exercises to:\n- Declare and manipulate variables\n- Implement conditional statements and loops\n- Define and call functions\nApply problem-solving skills to real-world scenarios, reinforcing Python fundamentals.",
   "mcqs": [
     {
-      "question": "What programming language is used in Module 39?",
+      "question": "What is the primary purpose of the 'Module 39: Python' lab?",
       "options": [
-        "Java",
-        "Python",
-        "C++",
-        "JavaScript"
+        "To practice writing Python scripts",
+        "To learn advanced Java programming",
+        "To understand database management",
+        "To develop web applications"
       ],
-      "correct_answer": "B"
+      "correct_answer": "A"
     },
     {
-      "question": "What is the duration of the Module 39 lab?",
+      "question": "Which of the following is NOT a topic covered in the 'Module 39: Python' lab?",
       "options": [
-        "15 minutes",
-        "25 minutes",
-        "30 minutes",
-        "45 minutes"
+        "Declaring variables",
+        "Implementing conditional statements",
+        "Defining functions",
+        "Developing machine learning models"
       ],
-      "correct_answer": "B"
+      "correct_answer": "D"
     }
   ],
   "flashcards": [
     {
       "front": "Variables",
-      "back": "Store and manipulate data in a program"
+      "back": "Used to store and manipulate data in a Python script"
     },
     {
-      "front": "Loops",
-      "back": "Repeat a set of instructions in a program"
+      "front": "Conditional Statements",
+      "back": "Used to control the flow of a Python script based on conditions or decisions"
     },
     {
       "front": "Functions",
-      "back": "Reusable blocks of code that perform a specific task"
+      "back": "Reusable blocks of code that perform a specific task in a Python script"
+    },
+    {
+      "front": "Loops",
+      "back": "Used to repeat a set of instructions in a Python script"
     }
   ]
 }

@@ -9,7 +9,7 @@
         "A machine output",
         "A training dataset"
       ],
-      "correct_answer": "A user input"
+      "correct_answer": "A"
     },
     {
       "question": "Which tool uses prompting for text generation?",
@@ -18,7 +18,7 @@
         "Virtual Assistant",
         "Language Model"
       ],
-      "correct_answer": "Language Model"
+      "correct_answer": "C"
     }
   ],
   "flashcards": [

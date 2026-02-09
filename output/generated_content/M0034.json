@@ -1,36 +1,36 @@
 {
   "module_id": "M0034",
-  "generated_text": "In \"Module 34: Ethics,\" intermediate learners explore key principles and practices. This 78-minute video covers real-world scenarios, case studies, and interactive discussions to promote ethical decision-making in the workplace. Learners will analyze situations, identify potential issues, and develop strategies to address them, fostering a strong ethical foundation and professional growth.",
+  "generated_text": "In \"Module 34: Ethics,\" intermediate learners explore the principles of ethical decision-making. Through real-world scenarios and case studies, participants analyze complex situations and develop a framework for making informed, ethical choices. This 78-minute video module provides practical guidance on navigating moral dilemmas, promoting a culture of integrity, and upholding organizational values.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 34: Ethics?",
       "options": [
-        "A) Technical skills",
-        "B) Ethical decision-making",
-        "C) Communication skills",
-        "D) Leadership skills"
+        "Financial management",
+        "Ethical decision-making",
+        "Marketing strategies",
+        "Operational efficiency"
       ],
       "correct_answer": "B"
     },
     {
-      "question": "What type of content does the 78-minute video cover?",
+      "question": "How do participants in Module 34: Ethics develop their understanding of ethical choices?",
       "options": [
-        "A) Theoretical concepts only",
-        "B) Real-world scenarios and case studies",
-        "C) Historical events",
-        "D) Cultural differences"
+        "Through theoretical lectures",
+        "Through real-world scenarios and case studies",
+        "Through group discussions only",
+        "Through written assignments"
       ],
       "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
-      "front": "Ethics",
-      "back": "Moral principles that guide behavior and decision-making"
+      "front": "Ethical decision-making",
+      "back": "The process of making informed choices that consider the moral and ethical implications of an action or decision."
     },
     {
-      "front": "Professional growth",
-      "back": "The process of developing skills, knowledge, and abilities to improve job performance and career advancement"
+      "front": "Moral dilemmas",
+      "back": "Situations where an individual must choose between two or more options that have conflicting moral or ethical implications."
     }
   ]
 }

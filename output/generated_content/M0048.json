@@ -2,13 +2,14 @@
   "module_id": "M0048",
   "duration": 56,
   "topics": [
-    "Decorators and generators",
-    "Advanced data structures (sets, dictionaries)",
-    "File input/output and exceptions",
-    "Object-Oriented Programming (OOP) concepts"
+    "Data structures and file operations",
+    "Object-Oriented Programming (OOP) concepts",
+    "Error handling and debugging techniques",
+    "Advanced libraries like NumPy and Pandas"
   ],
-  "num_questions": 10,
-  "learning_objective": "Test your advanced Python skills",
-  "call_to_action": "Choose the correct answer for each question. Upon completion, review your results and explore additional resources for further learning.",
-  "generated_text": "**Module 48: Python**\n**Duration: 56 minutes**\nTest your advanced Python skills with this 10-question quiz. Topics include:\n* Decorators and generators\n* Advanced data structures (sets, dictionaries)\n* File input/output and exceptions\n* Object-Oriented Programming (OOP) concepts\nChoose the correct answer for each question. Upon completion, review your results and explore additional resources for further learning."
+  "assessment": {
+    "multiple_choice_questions": 20,
+    "coding_challenges": 5
+  },
+  "generated_text": "**Module 48: Python**\n**Duration: 56 minutes**\nTest your advanced Python skills with this 56-minute quiz. Evaluate your knowledge of:\n* Data structures and file operations\n* Object-Oriented Programming (OOP) concepts\n* Error handling and debugging techniques\n* Advanced libraries like NumPy and Pandas\nComplete 20 multiple-choice questions and 5 coding challenges to assess your proficiency. Upon completion, review answers and explanations to reinforce your understanding of Python programming."
 }

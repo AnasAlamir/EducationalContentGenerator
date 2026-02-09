@@ -1,36 +1,16 @@
 {
   "module_id": "M0028",
-  "generated_text": "\"Module 28: CV\" (11 minutes, Advanced)\n\nOptimize your CV for ICAIL success. This video module covers:\n- Tailoring your CV to ICAIL job requirements\n- Highlighting relevant skills and experience\n- Effective formatting and keywords\n\nLearn how to create a compelling CV, increasing your chances of passing the ICAIL application process.",
-  "mcqs": [
-    {
-      "question": "What is the primary goal of Module 28: CV?",
-      "options": [
-        "To learn about ICAIL job requirements",
-        "To create a compelling CV for ICAIL success",
-        "To practice ICAIL interview questions",
-        "To learn about ICAIL salary ranges"
-      ],
-      "correct_answer": "B"
-    },
-    {
-      "question": "What is one of the topics covered in Module 28: CV?",
-      "options": [
-        "ICAIL job requirements",
-        "Effective formatting and keywords",
-        "ICAIL interview preparation",
-        "ICAIL salary negotiation"
-      ],
-      "correct_answer": "B"
-    }
+  "duration": 11,
+  "description": "This advanced video module covers the essentials of creating a compelling CV.",
+  "learning_objectives": [
+    "Tailor CV to specific job openings",
+    "Highlight relevant skills and experience",
+    "Use keywords to pass applicant tracking systems"
   ],
-  "flashcards": [
-    {
-      "front": "Tailoring your CV to ICAIL job requirements",
-      "back": "Involves highlighting relevant skills and experience to increase chances of passing the ICAIL application process"
-    },
-    {
-      "front": "Effective formatting and keywords",
-      "back": "Refers to the use of specific words and phrases to help your CV pass through applicant tracking systems and catch the eye of the hiring manager"
-    }
-  ]
+  "outcomes": [
+    "Create a strong, effective CV",
+    "Increase chances of landing an interview",
+    "Showcase expertise and achieve career goals"
+  ],
+  "generated_text": "**Module 28: CV**\n**Duration: 11 minutes**\nThis advanced video module covers the essentials of creating a compelling CV. Learners will discover how to tailor their CV to specific job openings, highlight relevant skills and experience, and use keywords to pass applicant tracking systems. Practical tips and examples will be provided to help learners enhance their CV and increase their chances of landing an interview. By the end of this module, learners will be able to create a strong, effective CV that showcases their expertise and achieves their career goals."
 }

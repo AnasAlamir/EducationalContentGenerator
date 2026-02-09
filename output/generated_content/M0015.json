@@ -1,52 +1,16 @@
 {
   "module_id": "M0015",
   "duration": 34,
-  "level": "Advanced",
-  "description": "Natural Language Processing (NLP) is a subset of AI that enables computers to understand and generate human language.",
-  "key_concepts": [
-    "tokenization",
-    "sentiment analysis",
-    "named entity recognition"
+  "description": "This advanced module explores Natural Language Processing (NLP) in AIIP.",
+  "topics": [
+    "Text preprocessing",
+    "Sentiment analysis",
+    "Entity recognition"
   ],
-  "applications": [
-    "text classification",
-    "language translation"
+  "learning_objectives": [
+    "Understand how NLP enables machines to understand human-like language",
+    "Apply NLP concepts to real-world problems",
+    "Enhance AIIP skills"
   ],
-  "skills_gained": [
-    "hands-on experience with NLP",
-    "enhanced AI skills"
-  ],
-  "mcqs": [
-    {
-      "question": "What is NLP?",
-      "options": [
-        "Machine Learning",
-        "Deep Learning",
-        "Natural Language Processing",
-        "Computer Vision"
-      ],
-      "correct_answer": "C"
-    },
-    {
-      "question": "What is tokenization?",
-      "options": [
-        "Sentiment Analysis",
-        "Named Entity Recognition",
-        "Text Classification",
-        "Breaking down text into words or tokens"
-      ],
-      "correct_answer": "D"
-    }
-  ],
-  "flashcards": [
-    {
-      "front": "Tokenization",
-      "back": "Breaking down text into words or tokens"
-    },
-    {
-      "front": "Sentiment Analysis",
-      "back": "Determining the emotional tone or attitude of a piece of text"
-    }
-  ],
-  "generated_text": "**Module 15: NLP**\n**Duration: 34 minutes**\n**Level: Advanced**\n\nNatural Language Processing (NLP) is a subset of AI that enables computers to understand and generate human language. Key concepts include tokenization, sentiment analysis, and named entity recognition. Advanced learners will explore NLP applications, such as text classification and language translation. Practical exercises will demonstrate how to implement NLP techniques using popular libraries and tools. By completing this module, you will gain hands-on experience with NLP and enhance your AI skills."
+  "generated_text": "**Module 15: NLP**\n**Duration: 34 minutes**\nThis advanced module explores Natural Language Processing (NLP) in AIIP. Learn how NLP enables machines to understand and generate human-like language. Key topics include:\n- Text preprocessing\n- Sentiment analysis\n- Entity recognition\nApply NLP concepts to real-world problems and enhance your AIIP skills."
 }

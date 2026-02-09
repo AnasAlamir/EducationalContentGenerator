@@ -1,24 +1,24 @@
 {
   "module_id": "M0036",
-  "generated_text": "\"Module 36: Data\" explores tools for collecting and analyzing data. Learn to identify data types, create datasets, and apply data visualization techniques. Understand data quality and management best practices. This 84-minute module is designed for intermediate learners, providing practical skills to enhance data-driven decision making.",
+  "generated_text": "\"Module 36: Data\" is an 84-minute intermediate-level training. Learn to collect, analyze, and interpret data using various tools. Understand data types, visualization, and reporting. Apply practical skills to real-world scenarios, enhancing your data management capabilities.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 36: Data?",
       "options": [
         "Data collection and analysis",
-        "Data storage and security",
         "Data visualization and reporting",
-        "Data mining and machine learning"
+        "Data management and interpretation",
+        "All of the above"
       ],
-      "correct_answer": "A"
+      "correct_answer": "D"
     },
     {
-      "question": "What is the duration of Module 36: Data?",
+      "question": "What is the duration of the Module 36: Data training?",
       "options": [
         "60 minutes",
         "84 minutes",
-        "120 minutes",
-        "180 minutes"
+        "90 minutes",
+        "120 minutes"
       ],
       "correct_answer": "B"
     }
@@ -30,11 +30,11 @@
     },
     {
       "front": "Data Visualization",
-      "back": "Techniques used to communicate data insights effectively"
+      "back": "The process of creating graphical representations of data"
     },
     {
-      "front": "Data Quality",
-      "back": "Measure of how accurate, complete, and consistent the data is"
+      "front": "Data Reporting",
+      "back": "The process of presenting data insights and findings"
     }
   ]
 }

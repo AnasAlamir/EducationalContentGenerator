@@ -1,22 +1,22 @@
 {
   "module_id": "M0019",
-  "generated_text": "\"Module 19: Prompting\" \nTest your knowledge on prompting tools. \nWhat is prompting? \nA) A design tool\nB) A communication technique\nC) An evaluation method\nChoose your answer. (5 minutes)",
+  "generated_text": "\"Module 19: Prompting\" \nTest your skills: What is prompting? \nA) A tool for feedback\nB) A technique for guidance\nC) A method for evaluation\nDuration: 56 minutes. Choose the correct answer to learn more about prompting tools.",
   "mcqs": [
     {
       "question": "What is prompting?",
       "options": [
-        "A) A design tool",
-        "B) A communication technique",
-        "C) An evaluation method"
+        "A) A tool for feedback",
+        "B) A technique for guidance",
+        "C) A method for evaluation"
       ],
-      "correct_answer": "B"
+      "correct_answer": "B) A technique for guidance"
     }
   ],
   "flashcards": [
     {
       "front": "Prompting",
-      "back": "A communication technique"
+      "back": "A technique for guidance"
     }
   ],
-  "duration": 5
+  "duration": 56
 }

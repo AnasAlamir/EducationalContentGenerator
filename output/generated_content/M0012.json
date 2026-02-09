@@ -1,36 +1,28 @@
 {
   "module_id": "M0012",
-  "generated_text": "\"Module 12: Data\" (47 minutes, Intermediate). Effective leaders make informed decisions using data. Learn to collect, analyze, and interpret data to drive business outcomes. Understand key metrics, identify trends, and create data-driven strategies to enhance organizational performance.",
-  "mcqs": [
+  "duration": 47,
+  "level": "Intermediate",
+  "description": "Effective leaders make data-driven decisions. This module covers data analysis, interpretation, and application.",
+  "learning_objectives": [
+    "Collect, organize, and visualize data",
+    "Inform strategic choices",
+    "Drive business outcomes",
+    "Measure performance",
+    "Identify trends, opportunities, and challenges"
+  ],
+  "key_concepts": [
     {
-      "question": "What do effective leaders use to make informed decisions?",
-      "options": [
-        "Experience",
-        "Data",
-        "Intuition",
-        "Instinct"
-      ],
-      "correct_answer": "B"
+      "concept": "Data Analysis",
+      "definition": "Process of evaluating data to extract insights"
     },
     {
-      "question": "What is the purpose of collecting and analyzing data in a business setting?",
-      "options": [
-        "To identify key metrics",
-        "To drive business outcomes",
-        "To create data-driven strategies",
-        "All of the above"
-      ],
-      "correct_answer": "D"
+      "concept": "Data Interpretation",
+      "definition": "Process of assigning meaning to data"
+    },
+    {
+      "concept": "Data Visualization",
+      "definition": "Process of representing data in a graphical format"
     }
   ],
-  "flashcards": [
-    {
-      "front": "Data-driven strategies",
-      "back": "Strategies that are based on the analysis and interpretation of data to drive business outcomes"
-    },
-    {
-      "front": "Key metrics",
-      "back": "Important measurements that are used to evaluate and understand business performance"
-    }
-  ]
+  "generated_text": "\"Module 12: Data\" (47 minutes, Intermediate)\nEffective leaders make data-driven decisions. This module covers data analysis, interpretation, and application. Learn to collect, organize, and visualize data to inform strategic choices, drive business outcomes, and measure performance. Discover how to identify trends, opportunities, and challenges, and develop a data-informed mindset to enhance your leadership skills."
 }

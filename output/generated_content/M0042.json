@@ -1,20 +1,48 @@
 {
   "module_id": "M0042",
-  "duration": 23,
+  "duration": "23min",
   "level": "Beginner",
   "description": "Introduction to Natural Language Processing",
   "topics": [
     "NLP basics",
-    "text processing",
-    "sentiment analysis"
+    "text analysis",
+    "language models"
   ],
   "learning_objectives": [
-    "Understand how AI models interpret human language",
+    "Understand how AI interprets human language",
     "Learn basics of NLP"
   ],
-  "resources": [
-    "interactive examples",
-    "visual aids"
+  "mcqs": [
+    {
+      "question": "What does NLP stand for?",
+      "options": [
+        "Natural Language Processing",
+        "Neural Language Programming",
+        "Network Language Protocol",
+        "None of the above"
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "question": "What is the primary goal of NLP?",
+      "options": [
+        "To develop language models",
+        "To analyze human language",
+        "To improve computer vision",
+        "To create expert systems"
+      ],
+      "correct_answer": "B"
+    }
   ],
-  "generated_text": "\"Module 42: NLP\" (23min, Beginner)\nIntroduction to Natural Language Processing. Learn basics of NLP, text processing, and sentiment analysis. Understand how AI models interpret human language, with interactive examples and visual aids."
+  "flashcards": [
+    {
+      "front": "Natural Language Processing",
+      "back": "A subfield of artificial intelligence that deals with the interaction between computers and humans in natural language"
+    },
+    {
+      "front": "Language Models",
+      "back": "Statistical models that predict the next word in a sequence of words, given the context of the previous words"
+    }
+  ],
+  "generated_text": "\"Module 42: NLP\" (23min, Beginner) \nIntroduction to Natural Language Processing. Learn basics of NLP, text analysis, and language models. Understand how AI interprets human language, with practical examples and applications."
 }

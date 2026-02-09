@@ -1,22 +1,22 @@
 {
   "module_id": "M0043",
-  "generated_text": "\"Module 43: AI Basics\"\nLearn the fundamentals of Artificial Intelligence (AI). AI refers to computer systems that think and learn like humans. Key concepts include machine learning, natural language processing, and neural networks. Understand how AI is used in everyday applications, such as virtual assistants and image recognition.",
+  "generated_text": "\"Module 43: AI Basics\"\nLearn the fundamentals of Artificial Intelligence (AI). AI refers to computer systems that think and learn like humans. Key concepts include machine learning, natural language processing, and neural networks. Understand how AI applies to real-world problems and improves decision-making. Start your AI journey here.",
   "mcqs": [
     {
       "question": "What does AI refer to?",
       "options": [
-        "Computer systems that only process data",
         "Computer systems that think and learn like humans",
-        "Computer systems that can only perform calculations",
-        "Computer systems that are not capable of learning"
+        "Computer systems that only think like humans",
+        "Computer systems that only learn like humans",
+        "None of the above"
       ],
-      "correct_answer": "B"
+      "correct_answer": "A"
     },
     {
-      "question": "What are some key concepts in AI?",
+      "question": "What are key concepts in AI?",
       "options": [
         "Machine learning and data analysis",
-        "Natural language processing and computer vision",
+        "Natural language processing and neural networks",
         "Machine learning, natural language processing, and neural networks",
         "Data analysis and computer vision"
       ],
@@ -34,7 +34,7 @@
     },
     {
       "front": "Neural Networks",
-      "back": "A type of machine learning model inspired by the structure and function of the human brain"
+      "back": "A type of AI that is modeled after the structure and function of the human brain"
     }
   ]
 }

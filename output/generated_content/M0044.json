@@ -2,48 +2,46 @@
   "module_id": "M0044",
   "duration": 19,
   "level": "Intermediate",
-  "description": "Unlock data-driven decision making. Learn to collect, analyze, and interpret data to inform leadership strategies.",
-  "objectives": [
+  "description": "Discover how to effectively collect, analyze, and interpret data to inform leadership decisions.",
+  "learning_objectives": [
     "Collect data",
     "Analyze data",
-    "Interpret data"
-  ],
-  "topics": [
-    "Data visualization",
-    "Key metrics",
-    "Business outcomes"
+    "Interpret data",
+    "Identify key metrics",
+    "Create data visualizations",
+    "Develop a data-driven mindset"
   ],
   "mcqs": [
     {
-      "question": "What is the primary goal of data-driven decision making?",
+      "question": "What is the primary purpose of collecting data in a leadership context?",
       "options": [
-        "A) To collect data",
-        "B) To analyze data",
-        "C) To inform leadership strategies",
-        "D) To drive business outcomes"
+        "A) To drive business outcomes",
+        "B) To identify key metrics",
+        "C) To create data visualizations",
+        "D) To develop a data-driven mindset"
       ],
-      "correct_answer": "C"
+      "correct_answer": "A"
     },
     {
-      "question": "What is the purpose of creating data visualizations?",
+      "question": "Which of the following is a key skill for a leader to effectively use data?",
       "options": [
-        "A) To identify key metrics",
-        "B) To drive business outcomes",
-        "C) To communicate complex data insights",
-        "D) To collect data"
+        "A) Communication",
+        "B) Data analysis",
+        "C) Strategic planning",
+        "D) All of the above"
       ],
-      "correct_answer": "C"
+      "correct_answer": "D"
     }
   ],
   "flashcards": [
     {
-      "front": "Data Visualization",
-      "back": "The process of creating graphical representations of data to better understand and communicate complex data insights."
+      "front": "Data-driven mindset",
+      "back": "A mindset that relies on data and evidence to inform decisions"
     },
     {
-      "front": "Key Metrics",
-      "back": "Quantifiable measures used to track and evaluate the performance of an organization or business."
+      "front": "Key metrics",
+      "back": "Measurable values that indicate the performance of a business or organization"
     }
   ],
-  "generated_text": "\"Module 44: Data\" (19 minutes, Intermediate) \nUnlock data-driven decision making. Learn to collect, analyze, and interpret data to inform leadership strategies. Discover how to identify key metrics, create data visualizations, and drive business outcomes. Practical examples and case studies will help you apply data insights to real-world scenarios, enhancing your leadership skills."
+  "generated_text": "\"Module 44: Data\" (19 minutes, Intermediate) \nDiscover how to effectively collect, analyze, and interpret data to inform leadership decisions. Learn to identify key metrics, create data visualizations, and develop a data-driven mindset to drive business outcomes."
 }

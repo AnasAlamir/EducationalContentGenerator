@@ -2,32 +2,31 @@
   "module_id": "M0040",
   "duration": 89,
   "level": "Advanced",
-  "description": "Test your Python skills with this advanced quiz.",
-  "questions": [
-    {
-      "question": "What is the purpose of the \"yield\" keyword in Python?",
-      "type": "short_answer"
-    },
-    {
-      "question": "How do you implement inheritance in Python classes?",
-      "type": "code_example"
-    },
-    {
-      "question": "What is the difference between static and dynamic typing in Python?",
-      "type": "multiple_choice",
-      "options": [
-        "Static typing is used for type checking at compile time",
-        "Dynamic typing is used for type checking at runtime",
-        "Static typing is used for type checking at runtime",
-        "Dynamic typing is used for type checking at compile time"
-      ],
-      "correct_answer": "Dynamic typing is used for type checking at runtime"
-    }
-  ],
   "topics": [
-    "generators",
-    "object-oriented programming",
-    "type systems"
+    "Data structures",
+    "Object-Oriented Programming",
+    "File input/output and exception handling",
+    "Advanced modules"
   ],
-  "generated_text": "**Module 40: Python**\n**Duration: 89 minutes**\n**Level: Advanced**\n\nTest your Python skills with this advanced quiz. Answer the following questions to assess your knowledge:\n\n1. What is the purpose of the \"yield\" keyword in Python?\n2. How do you implement inheritance in Python classes?\n3. What is the difference between static and dynamic typing in Python?\n\nChoose from multiple-choice options or provide a short code example to demonstrate your understanding. This quiz covers advanced topics, including generators, object-oriented programming, and type systems. Evaluate your skills and identify areas for improvement."
+  "subtopics": {
+    "Data structures": [
+      "lists",
+      "dictionaries",
+      "sets"
+    ],
+    "Object-Oriented Programming": [
+      "classes",
+      "inheritance"
+    ],
+    "Advanced modules": [
+      "NumPy",
+      "Pandas",
+      "Matplotlib"
+    ]
+  },
+  "assessment": {
+    "multiple_choice_questions": 20,
+    "coding_challenges": 5
+  },
+  "generated_text": "**Module 40: Python**\n**Duration: 89 minutes**\n**Level: Advanced**\n\nTest your Python skills with this advanced quiz. Evaluate your knowledge of:\n\n1. Data structures: lists, dictionaries, and sets\n2. Object-Oriented Programming: classes and inheritance\n3. File input/output and exception handling\n4. Advanced modules: NumPy, Pandas, and Matplotlib\n\nComplete 20 multiple-choice questions and 5 coding challenges to assess your proficiency. Upon completion, review answers and explanations to reinforce learning. This quiz is designed to challenge advanced learners and provide practical experience with Python programming concepts."
 }

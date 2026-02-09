@@ -1,40 +1,40 @@
 {
   "module_id": "M0026",
-  "generated_text": "In \"Module 26: Data\", advanced learners will dive into expert-level data management techniques. This 35-minute video covers data analysis, visualization, and interpretation. Key topics include:\n\n* Data modeling and mining\n* Advanced data visualization tools\n* Statistical analysis and reporting\n\nThrough real-world examples and interactive demonstrations, learners will gain hands-on experience working with complex data sets. By the end of this module, participants will be able to extract insights, identify trends, and make data-driven decisions. This video is designed for advanced learners looking to enhance their data skills and stay ahead in their field.",
+  "generated_text": "In \"Module 26: Data\", advanced learners will dive into expert-level data management techniques. This 35-minute video covers data analysis, visualization, and interpretation. Key topics include:\n\n* Data modeling and mining\n* Advanced data visualization tools\n* Data storytelling and communication\n\nThrough interactive examples and real-world case studies, learners will develop practical skills to extract insights and drive informed decisions. By the end of this module, participants will be able to effectively collect, analyze, and present complex data to stakeholders.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 26: Data?",
       "options": [
         "Data analysis and visualization",
-        "Machine learning and AI",
-        "Cloud computing and networking",
-        "Cybersecurity and threat analysis"
+        "Data modeling and mining",
+        "Data storytelling and communication",
+        "All of the above"
       ],
-      "correct_answer": "A"
+      "correct_answer": "D"
     },
     {
-      "question": "What is one of the key topics covered in Module 26: Data?",
+      "question": "What is the duration of the video in Module 26: Data?",
       "options": [
-        "Advanced data visualization tools",
-        "Basic programming concepts",
-        "Data structures and algorithms",
-        "Web development and design"
+        "30 minutes",
+        "35 minutes",
+        "40 minutes",
+        "45 minutes"
       ],
-      "correct_answer": "A"
+      "correct_answer": "B"
     }
   ],
   "flashcards": [
     {
-      "front": "Data modeling and mining",
-      "back": "The process of creating a conceptual representation of data and extracting insights from large datasets."
+      "front": "Data Modeling",
+      "back": "The process of creating a conceptual representation of data to extract insights and relationships."
     },
     {
-      "front": "Advanced data visualization tools",
-      "back": "Software and techniques used to create interactive and dynamic visual representations of complex data."
+      "front": "Data Visualization",
+      "back": "The process of using graphical representations to communicate information and insights from data."
     },
     {
-      "front": "Statistical analysis and reporting",
-      "back": "The process of collecting, analyzing, and interpreting data to extract insights and inform decision-making."
+      "front": "Data Storytelling",
+      "back": "The process of using narrative techniques to communicate insights and findings from data to stakeholders."
     }
   ]
 }

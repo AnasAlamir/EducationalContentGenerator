@@ -1,17 +1,19 @@
 {
   "module_id": "M0010",
+  "module_name": "CV",
   "duration": 70,
   "level": "Intermediate",
-  "description": "Test your knowledge on creating effective CVs",
-  "num_questions": 10,
-  "topics": [
-    "Contact information",
-    "Work experience",
-    "Education and skills"
-  ],
+  "description": "Test your skills in creating an effective CV",
   "objectives": [
-    "Tailor a CV to a job description",
-    "Identify common mistakes to avoid"
+    "Evaluate CV structure",
+    "Understand CV content and formatting",
+    "Tailor a CV to a specific job",
+    "Highlight relevant skills and experience"
   ],
-  "generated_text": "Module 10: CV (70 minutes, Intermediate)\nTest your knowledge on creating effective CVs. Answer 10 multiple-choice questions to assess your understanding of CV structure, content, and formatting. Topics include:\n- Contact information\n- Work experience\n- Education and skills\nEvaluate your ability to tailor a CV to a job description and identify common mistakes to avoid."
+  "assessment": {
+    "type": "Multiple Choice Questions",
+    "number_of_questions": 10,
+    "feedback": "Provided for improvement"
+  },
+  "generated_text": "**Module 10: CV**\nTest your skills in creating an effective CV. This 70-minute quiz is designed for intermediate learners. Evaluate your understanding of CV structure, content, and formatting. Assess your ability to tailor a CV to a specific job and highlight relevant skills and experience. Complete 10 multiple-choice questions to gauge your knowledge and receive feedback for improvement."
 }

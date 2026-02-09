@@ -1,14 +1,14 @@
 {
   "module_id": "M0018",
-  "generated_text": "**Module 18: Python**\nLearn the basics of Python programming in 57 minutes. Discover variables, data types, and control structures. Understand how to write simple scripts and use libraries. Start with basic syntax and build a foundation for AI and data science applications. Begin coding with Python and enhance your skills in AIIP.",
+  "generated_text": "**Module 18: Python**\nLearn the basics of Python programming in 57 minutes. Discover variables, data types, and control structures. Understand how to write simple scripts and use popular libraries. Start with basic syntax and build a foundation for AI and data science applications.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 18?",
       "options": [
-        "Java Programming",
-        "Python Programming",
-        "Data Science",
-        "AI Applications"
+        "JavaScript programming",
+        "Python programming",
+        "Data analysis",
+        "Machine learning"
       ],
       "correct_answer": "B"
     },
@@ -29,12 +29,12 @@
       "back": "Store and manipulate data in a program"
     },
     {
-      "front": "Data Types",
+      "front": "Data types",
       "back": "Classification of data into different types such as integer, string, etc."
     },
     {
-      "front": "Control Structures",
-      "back": "Used to control the flow of a program's execution"
+      "front": "Control structures",
+      "back": "Statements that control the flow of a program's execution"
     }
   ]
 }

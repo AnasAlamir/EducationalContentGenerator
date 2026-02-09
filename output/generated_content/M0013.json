@@ -26,15 +26,15 @@
   "flashcards": [
     {
       "front": "Artificial Intelligence (AI)",
-      "back": "The development of computer systems that can perform tasks that typically require human intelligence"
+      "back": "The development of computer systems able to perform tasks that typically require human intelligence."
     },
     {
       "front": "Machine Learning",
-      "back": "A subset of AI that involves training algorithms to learn from data and make predictions or decisions"
+      "back": "A subset of AI that involves the use of algorithms to enable machines to learn from data and make predictions or decisions."
     },
     {
       "front": "Neural Networks",
-      "back": "A type of machine learning model inspired by the structure and function of the human brain"
+      "back": "A type of machine learning model inspired by the structure and function of the human brain."
     }
   ]
 }

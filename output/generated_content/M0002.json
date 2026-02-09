@@ -1,26 +1,26 @@
 {
   "module_id": "M0002",
-  "generated_text": "\"Module 2: Ethics\" Lab (40 minutes, Beginner)\n\nExplore ethical principles in a hands-on environment. Complete interactive scenarios to understand confidentiality, privacy, and professional conduct. Analyze case studies, discuss in small groups, and apply ethical decision-making frameworks. Practice resolving dilemmas and receive feedback.",
+  "generated_text": "\"Module 2: Ethics\" (40min, Beginner)\nIn this lab, explore ethical principles in a hands-on environment. Complete interactive scenarios to understand confidentiality, privacy, and professional conduct. Analyze case studies and discuss implications with peers. Apply ethical decision-making frameworks to real-world situations, promoting a culture of integrity and responsibility.",
   "mcqs": [
     {
       "question": "What is the primary focus of Module 2: Ethics?",
       "options": [
         "Technical skills",
         "Ethical principles",
-        "Business management",
-        "Data analysis"
+        "Data analysis",
+        "Communication strategies"
       ],
       "correct_answer": "B"
     },
     {
-      "question": "What is one of the key concepts explored in the interactive scenarios?",
+      "question": "What is one of the key concepts explored in the interactive scenarios of Module 2: Ethics?",
       "options": [
-        "Cloud computing",
-        "Artificial intelligence",
+        "Data visualization",
         "Confidentiality",
-        "Networking"
+        "Project management",
+        "Cloud computing"
       ],
-      "correct_answer": "C"
+      "correct_answer": "B"
     }
   ],
   "flashcards": [
@@ -30,7 +30,7 @@
     },
     {
       "front": "Professional conduct",
-      "back": "The standards of behavior expected of professionals in a particular field"
+      "back": "The standards of behavior expected of professionals in their field"
     }
   ]
 }

@@ -1,36 +1,14 @@
 {
   "module_id": "M0041",
-  "generated_text": "\"Module 41: CV\" (22 minutes, Beginner)\nIn this lab, create a professional CV. Follow along as we:\n- Set up a template\n- Add contact info and objective\n- List education and experience\nPractice building your own CV with guided steps.",
-  "mcqs": [
-    {
-      "question": "What is the main objective of Module 41?",
-      "options": [
-        "To create a professional CV",
-        "To practice programming skills",
-        "To learn about data structures",
-        "To understand algorithms"
-      ],
-      "correct_answer": "A"
-    },
-    {
-      "question": "What is one of the steps in creating a CV in Module 41?",
-      "options": [
-        "Setting up a database",
-        "Adding contact info and objective",
-        "Creating a website",
-        "Learning a new language"
-      ],
-      "correct_answer": "B"
-    }
+  "duration": 22,
+  "level": "Beginner",
+  "description": "Create a professional CV",
+  "objectives": [
+    "Identify key sections",
+    "Input personal details and work experience",
+    "Format for clarity and readability"
   ],
-  "flashcards": [
-    {
-      "front": "CV",
-      "back": "Curriculum Vitae, a document that outlines education, experience, and skills"
-    },
-    {
-      "front": "Template",
-      "back": "A pre-designed format used to create a document, in this case, a CV"
-    }
-  ]
+  "template": "CV template",
+  "practice": "Build your own CV",
+  "generated_text": "\"Module 41: CV\" (22 minutes, Beginner)\nIn this lab, create a professional CV. Follow along as we:\n- Identify key sections (contact, summary, experience)\n- Input personal details and work experience\n- Format for clarity and readability\nPractice building your own CV using a template."
 }

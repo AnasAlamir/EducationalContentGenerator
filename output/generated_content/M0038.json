@@ -1,48 +1,36 @@
 {
   "module_id": "M0038",
-  "duration": 50,
-  "level": "Beginner",
-  "description": "Introduction to AI ethics, covering bias, privacy, and transparency.",
-  "learning_objectives": [
-    "Identify ethical concerns in AI development",
-    "Address ethical concerns in AI implementation"
-  ],
-  "topics": [
-    "Bias",
-    "Privacy",
-    "Transparency"
-  ],
+  "generated_text": "\"Module 38: Ethics\" introduces AIIP beginners to fundamental principles. This 50-minute video covers key concepts, real-world examples, and best practices for ethical decision-making in AI development and implementation. Learners will understand the importance of ethics in AI and how to apply ethical considerations in their work.",
   "mcqs": [
     {
-      "question": "What is the primary goal of AI ethics?",
+      "question": "What is the primary focus of Module 38: Ethics?",
       "options": [
-        "To increase AI efficiency",
-        "To reduce AI costs",
-        "To ensure responsible AI practice",
-        "To improve AI accuracy"
+        "AI development",
+        "Ethics in AI",
+        "AI implementation",
+        "Data analysis"
       ],
-      "correct_answer": "C"
+      "correct_answer": "B"
     },
     {
-      "question": "Which of the following is an example of an ethical concern in AI development?",
+      "question": "What is covered in the 50-minute video of Module 38: Ethics?",
       "options": [
-        "Data privacy",
-        "Model accuracy",
-        "Computational power",
-        "Data storage"
+        "Only key concepts",
+        "Only real-world examples",
+        "Key concepts, real-world examples, and best practices",
+        "None of the above"
       ],
-      "correct_answer": "A"
+      "correct_answer": "C"
     }
   ],
   "flashcards": [
     {
-      "front": "Bias",
-      "back": "The tendency of an AI system to produce unfair or discriminatory outcomes"
+      "front": "Ethics in AI",
+      "back": "The practice of considering moral principles and values in the development and implementation of artificial intelligence"
     },
     {
-      "front": "Transparency",
-      "back": "The ability to understand and interpret the decisions made by an AI system"
+      "front": "Key concepts in Module 38: Ethics",
+      "back": "Fundamental principles, real-world examples, and best practices for ethical decision-making"
     }
-  ],
-  "generated_text": "\"Module 38: Ethics\" (50min, Beginner) \nIntroduction to AI ethics, covering bias, privacy, and transparency. Learn to identify and address ethical concerns in AI development and implementation. Interactive examples and case studies illustrate key concepts, providing a foundation for responsible AI practice."
+  ]
 }

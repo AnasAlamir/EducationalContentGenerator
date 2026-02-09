@@ -1,15 +1,15 @@
 {
   "module_id": "M0014",
+  "module_name": "Ethics",
   "duration": 89,
   "level": "Intermediate",
-  "description": "Test your leadership ethics knowledge",
   "topics": [
-    "Conflict of interest",
-    "Data privacy",
-    "Workplace conduct"
+    "Confidentiality",
+    "Bias",
+    "Decision-making",
+    "Accountability"
   ],
-  "questions": 10,
-  "question_type": "multiple-choice",
-  "assessment": "Apply ethical principles to real-world scenarios",
-  "generated_text": "\"Module 14: Ethics\" (89 minutes, Intermediate)\nTest your leadership ethics knowledge. Answer 10 multiple-choice questions on moral principles, decision-making, and responsible leadership. Topics include:\n- Conflict of interest\n- Data privacy\n- Workplace conduct\nAssess your understanding and apply ethical principles to real-world scenarios."
+  "passing_score": 0.8,
+  "reflection": "Improve your ethical leadership skills",
+  "generated_text": "Module 14: Ethics (89 minutes, Intermediate)\nTest your leadership ethics knowledge. Answer 10 multiple-choice questions on:\n- Confidentiality\n- Bias\n- Decision-making\n- Accountability\nScore 80% or higher to pass. Reflect on your answers to improve your ethical leadership skills."
 }

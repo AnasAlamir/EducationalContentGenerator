@@ -1,13 +1,14 @@
 {
   "module_id": "M0030",
-  "generated_text": "\"Module 30: NLP\" \nTest your knowledge on Natural Language Processing (NLP). \nWhat is NLP? \nA) AI for images\nB) AI for text and speech\nC) AI for videos\nChoose your answer. (Duration: 18 minutes)",
+  "generated_text": "\"Module 30: NLP\" (18 minutes, Beginner)\nTest your knowledge on Natural Language Processing (NLP). What is NLP? \nA) Machine learning \nB) Human language analysis \nC) Computer vision \nD) Data mining \n\nChoose your answer to proceed.",
   "mcqs": [
     {
       "question": "What is NLP?",
       "options": [
-        "A) AI for images",
-        "B) AI for text and speech",
-        "C) AI for videos"
+        "A) Machine learning",
+        "B) Human language analysis",
+        "C) Computer vision",
+        "D) Data mining"
       ],
       "correct_answer": "B"
     }

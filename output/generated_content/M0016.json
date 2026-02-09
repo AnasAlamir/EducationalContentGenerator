@@ -1,12 +1,17 @@
 {
   "module_id": "M0016",
   "duration": 53,
+  "level": "Advanced",
   "topics": [
     "Text preprocessing techniques",
     "Sentiment analysis and named entity recognition",
     "Machine learning models for NLP",
-    "Applications of NLP in AI"
+    "Applications in chatbots and language translation"
   ],
-  "instructions": "Choose the correct answer for each question. Upon completion, review your results and explore additional resources for further learning.",
-  "generated_text": "**Module 16: NLP**\n**Duration: 53 minutes**\nTest your advanced knowledge of Natural Language Processing (NLP). This 53-minute quiz covers:\n1. Text preprocessing techniques\n2. Sentiment analysis and named entity recognition\n3. Machine learning models for NLP\n4. Applications of NLP in AI\n\n**Instructions:** Choose the correct answer for each question. Upon completion, review your results and explore additional resources for further learning."
+  "objectives": [
+    "Identify NLP techniques",
+    "Analyze text data",
+    "Apply NLP to real-world problems"
+  ],
+  "generated_text": "**Module 16: NLP (53 minutes, Advanced)**\nTest your knowledge of Natural Language Processing (NLP) in AIIP. This quiz covers:\n1. Text preprocessing techniques\n2. Sentiment analysis and named entity recognition\n3. Machine learning models for NLP\n4. Applications in chatbots and language translation\n\nAssess your understanding of NLP concepts and their practical applications. Evaluate your ability to:\n* Identify NLP techniques\n* Analyze text data\n* Apply NLP to real-world problems\n\nComplete this quiz to reinforce your advanced knowledge of NLP in AIIP."
 }

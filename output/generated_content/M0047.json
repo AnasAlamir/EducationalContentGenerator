@@ -1,16 +1,44 @@
 {
   "module_id": "M0047",
-  "duration": 53,
-  "level": "Intermediate",
-  "description": "Test your knowledge on ethical principles in ICAIL",
-  "key_concepts": [
-    "Confidentiality and data protection",
-    "Bias and fairness in AI",
-    "Transparency and accountability"
+  "generated_text": "Module 47: Ethics (53 minutes, Intermediate)\nTest your knowledge on ethical principles in ICAIL. This quiz covers key concepts, including:\n- Confidentiality\n- Data protection\n- Bias in AI systems\n- Transparency and accountability\nAssess your understanding of ethical considerations in AI development and application.",
+  "mcqs": [
+    {
+      "question": "What is the primary purpose of confidentiality in ICAIL?",
+      "options": [
+        "To protect AI systems from bias",
+        "To ensure transparency in AI development",
+        "To safeguard sensitive information",
+        "To promote accountability in AI application"
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "question": "Which of the following is a key concept in ethical considerations for AI development?",
+      "options": [
+        "Data accumulation",
+        "Bias in AI systems",
+        "AI system transparency",
+        "Human oversight"
+      ],
+      "correct_answer": "B"
+    }
   ],
-  "learning_objectives": [
-    "Assess your understanding of ethical principles",
-    "Apply ethical considerations to real-world scenarios"
-  ],
-  "generated_text": "Module 47: Ethics (53 minutes, Intermediate)\nTest your knowledge on ethical principles in ICAIL. This quiz covers key concepts, including:\n- Confidentiality and data protection\n- Bias and fairness in AI\n- Transparency and accountability\nAssess your understanding and apply ethical considerations to real-world scenarios."
+  "flashcards": [
+    {
+      "front": "Confidentiality",
+      "back": "The principle of protecting sensitive information from unauthorized access"
+    },
+    {
+      "front": "Data protection",
+      "back": "The practice of ensuring the secure handling and storage of personal data"
+    },
+    {
+      "front": "Bias in AI systems",
+      "back": "The phenomenon where AI systems produce unfair or discriminatory outcomes due to flawed data or algorithms"
+    },
+    {
+      "front": "Transparency and accountability",
+      "back": "The principles of ensuring that AI systems are explainable, traceable, and responsible for their actions and decisions"
+    }
+  ]
 }

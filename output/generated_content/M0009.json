@@ -15,45 +15,18 @@
     "Develop decision-making skills"
   ],
   "techniques": [
-    "Mirror and match verbal and non-verbal cues",
-    "Transform negative thoughts into positive ones",
-    "Associate emotions with specific states"
-  ],
-  "mcqs": [
     {
-      "question": "What is the primary goal of NLP in leadership?",
-      "options": [
-        "To improve communication",
-        "To increase productivity",
-        "To enhance influence",
-        "To develop decision-making skills"
-      ],
-      "correct_answer": "A"
+      "name": "Rapport-building",
+      "description": "Mirror and match verbal/non-verbal cues to establish trust"
     },
     {
-      "question": "Which NLP technique involves transforming negative thoughts into positive ones?",
-      "options": [
-        "Rapport-building",
-        "Reframing",
-        "Anchoring",
-        "Mirroring"
-      ],
-      "correct_answer": "B"
+      "name": "Reframing",
+      "description": "Transform negative thoughts into positive, empowering ones"
+    },
+    {
+      "name": "Anchoring",
+      "description": "Associate emotions with specific triggers to manage responses"
     }
   ],
-  "flashcards": [
-    {
-      "front": "Rapport-building",
-      "back": "The process of mirroring and matching verbal and non-verbal cues to establish a connection with others"
-    },
-    {
-      "front": "Reframing",
-      "back": "The technique of transforming negative thoughts into positive, empowering ones"
-    },
-    {
-      "front": "Anchoring",
-      "back": "The process of associating emotions with specific states or stimuli"
-    }
-  ],
-  "generated_text": "**Module 9: NLP Lab (75 minutes, Advanced)**\n\nApply Neuro-Linguistic Programming (NLP) principles to enhance leadership skills. In this lab, you'll practice:\n\n1. **Rapport-building**: Mirror and match verbal and non-verbal cues.\n2. **Reframing**: Transform negative thoughts into positive, empowering ones.\n3. **Anchoring**: Associate emotions with specific states.\n\nThrough interactive exercises and role-plays, you'll develop NLP techniques to improve communication, influence, and decision-making. By the end of this lab, you'll be able to apply NLP principles to real-world leadership challenges."
+  "generated_text": "**Module 9: NLP Lab (75 minutes, Advanced)**\n\nApply Neuro-Linguistic Programming (NLP) principles to enhance leadership skills. In this lab, you'll practice:\n\n1. **Rapport-building**: Mirror and match verbal/non-verbal cues to establish trust.\n2. **Reframing**: Transform negative thoughts into positive, empowering ones.\n3. **Anchoring**: Associate emotions with specific triggers to manage responses.\n\nThrough interactive exercises and group discussions, you'll develop NLP techniques to improve communication, influence, and decision-making. By the end of this lab, you'll be able to apply NLP principles to real-world leadership challenges."
 }

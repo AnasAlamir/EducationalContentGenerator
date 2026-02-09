@@ -2,19 +2,19 @@
   "module_id": "M0003",
   "duration": 80,
   "level": "Beginner",
-  "description": "Explore data fundamentals in this video module. Learn to collect, organize, and analyze data using essential tools and techniques. Practical examples and interactive exercises help you understand data concepts and apply them in real-world scenarios.",
+  "description": "Explore data fundamentals in this video module. Learn to collect, organize, and analyze data using essential tools and techniques. Practical exercises and examples will help you understand data concepts and apply them in real-world scenarios.",
   "objectives": [
     "Collect data",
     "Organize data",
     "Analyze data"
   ],
   "tools": [
-    "Essential tools",
-    "Techniques"
+    "Essential tools"
   ],
-  "exercises": [
-    "Practical examples",
-    "Interactive exercises"
+  "techniques": [
+    "Data collection",
+    "Data organization",
+    "Data analysis"
   ],
-  "generated_text": "\"Module 3: Data\" (80min, Beginner) \nExplore data fundamentals in this video module. Learn to collect, organize, and analyze data using essential tools and techniques. Practical examples and interactive exercises help you understand data concepts and apply them in real-world scenarios."
+  "generated_text": "\"Module 3: Data\" (80min, Beginner) \nExplore data fundamentals in this video module. Learn to collect, organize, and analyze data using essential tools and techniques. Practical exercises and examples will help you understand data concepts and apply them in real-world scenarios."
 }

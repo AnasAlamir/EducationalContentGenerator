@@ -1,16 +1,33 @@
 {
   "module_id": "M0045",
-  "generated_text": "\"Module 45: Prompting\" \nTest your skills in using prompting tools. This 50-minute quiz is designed for intermediate learners. Evaluate your understanding of prompt types, formatting, and best practices. Complete 10 multiple-choice questions to assess your knowledge and identify areas for improvement.",
   "duration": 50,
-  "level": "intermediate",
-  "num_questions": 10,
-  "topics": [
-    "prompt types",
-    "formatting",
-    "best practices"
+  "level": "Intermediate",
+  "description": "Test your skills in using prompting tools.",
+  "question": "What is prompting in instructional design?",
+  "options": [
+    "A) A visual aid",
+    "B) A cue to elicit response",
+    "C) A feedback mechanism",
+    "D) A navigation tool"
   ],
-  "assessment": {
-    "type": "multiple-choice",
-    "purpose": "identify areas for improvement"
-  }
+  "correct_answer": "B",
+  "mcqs": [
+    {
+      "question": "What is prompting in instructional design?",
+      "options": [
+        "A) A visual aid",
+        "B) A cue to elicit response",
+        "C) A feedback mechanism",
+        "D) A navigation tool"
+      ],
+      "correct_answer": "B"
+    }
+  ],
+  "flashcards": [
+    {
+      "front": "Prompting",
+      "back": "A cue to elicit response"
+    }
+  ],
+  "generated_text": "\"Module 45: Prompting\" (50 minutes, Intermediate)\nTest your skills in using prompting tools. Choose the correct answer:\nWhat is prompting in instructional design?\nA) A visual aid\nB) A cue to elicit response\nC) A feedback mechanism\nD) A navigation tool\n\nSelect your answer to proceed."
 }

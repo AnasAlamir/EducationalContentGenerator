@@ -8,12 +8,21 @@
     "Analyzing data",
     "Visualizing data"
   ],
-  "topics": [
-    "Data manipulation",
-    "Data interpretation",
-    "Trend identification",
-    "Chart creation",
-    "Decision making"
+  "outcomes": [
+    "Identify trends",
+    "Create charts",
+    "Make informed decisions"
   ],
-  "generated_text": "\"Module 35: Data\" (62 minutes, Intermediate)\nIn this lab, explore data tools and techniques. Practice collecting, analyzing, and visualizing data using real-world scenarios. Learn to identify trends, create charts, and make informed decisions. Hands-on exercises will help you master data manipulation and interpretation."
+  "exercises": [
+    {
+      "type": "Hands-on",
+      "topic": "Data manipulation"
+    },
+    {
+      "type": "Hands-on",
+      "topic": "Data interpretation"
+    }
+  ],
+  "result": "Effectively work with data to drive insights and results",
+  "generated_text": "\"Module 35: Data\" (62 minutes, Intermediate)\nIn this lab, explore data tools and techniques. Practice collecting, analyzing, and visualizing data using real-world scenarios. Learn to identify trends, create charts, and make informed decisions. Hands-on exercises will help you master data manipulation and interpretation. By the end, you'll be able to effectively work with data to drive insights and results."
 }

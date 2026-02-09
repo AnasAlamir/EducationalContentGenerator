@@ -3,18 +3,19 @@
   "duration": 87,
   "level": "Intermediate",
   "description": "Test your knowledge on ethical principles in the workplace.",
+  "objectives": [
+    "Evaluate real-life scenarios",
+    "Choose the most ethical course of action",
+    "Assess understanding of company policies and industry standards"
+  ],
   "topics": [
-    "Confidentiality and data protection",
-    "Professional conduct and boundaries",
-    "Reporting unethical behavior"
+    "confidentiality",
+    "integrity",
+    "responsible decision-making"
   ],
   "assessment": {
     "type": "quiz",
-    "questions": 10
+    "feedback": "provided upon completion"
   },
-  "objectives": {
-    "understanding": "ethical principles",
-    "outcome": "receive feedback"
-  },
-  "generated_text": "Module 32: Ethics (87 minutes, Intermediate)\nTest your knowledge on ethical principles in the workplace. This 10-question quiz covers:\n- Confidentiality and data protection\n- Professional conduct and boundaries\n- Reporting unethical behavior\nComplete the quiz to assess your understanding and receive feedback."
+  "generated_text": "Module 32: Ethics (87 minutes, Intermediate)\nTest your knowledge on ethical principles in the workplace. This 87-minute quiz covers key concepts, including confidentiality, integrity, and responsible decision-making. Evaluate real-life scenarios and choose the most ethical course of action. Assess your understanding of company policies and industry standards. Upon completion, you'll receive feedback and guidance for improvement."
 }

@@ -1,49 +1,36 @@
 {
   "module_id": "M0046",
-  "title": "Module 46: AI Basics",
-  "duration": "10 minutes",
-  "description": "Introduction to fundamental AI concepts for advanced learners",
-  "objectives": [
-    "Define AI and its applications",
-    "Explain supervised, unsupervised, and reinforcement learning",
-    "Describe neural network structure and function"
-  ],
-  "key_takeaways": [
-    "Defining AI and its applications",
-    "Supervised, unsupervised, and reinforcement learning",
-    "Neural network structure and function"
-  ],
+  "generated_text": "\"Module 46: AI Basics\" (10-minute video)\n\nFor advanced learners, this module provides an in-depth introduction to Artificial Intelligence fundamentals. Key topics include:\n\n* Machine learning types (supervised, unsupervised, reinforcement)\n* Neural network basics\n* AI applications and limitations\n\nThrough interactive visuals and real-world examples, learners will gain a deeper understanding of AI concepts and their practical applications. By the end of this module, learners will be able to explain AI basics and identify potential use cases.",
   "mcqs": [
     {
-      "question": "What is the primary goal of supervised learning?",
+      "question": "What type of machine learning involves a teacher or labeled data?",
       "options": [
-        "To make predictions without labeled data",
-        "To make predictions with labeled data",
-        "To discover patterns in unlabeled data",
-        "To optimize rewards in an environment"
+        "Supervised",
+        "Unsupervised",
+        "Reinforcement",
+        "Deep Learning"
       ],
-      "correct_answer": "B"
+      "correct_answer": "Supervised"
     },
     {
-      "question": "What type of learning involves an agent learning to take actions to maximize rewards?",
+      "question": "What is the primary function of a neural network?",
       "options": [
-        "Supervised learning",
-        "Unsupervised learning",
-        "Reinforcement learning",
-        "Deep learning"
+        "To store data",
+        "To perform calculations",
+        "To make decisions",
+        "To learn patterns"
       ],
-      "correct_answer": "C"
+      "correct_answer": "To learn patterns"
     }
   ],
   "flashcards": [
     {
       "front": "Supervised Learning",
-      "back": "A type of machine learning where the model is trained on labeled data to make predictions"
+      "back": "A type of machine learning where the algorithm is trained on labeled data"
     },
     {
       "front": "Neural Network",
-      "back": "A computer system inspired by the structure and function of the human brain, used for machine learning tasks"
+      "back": "A computer system modeled after the human brain, used for tasks such as image recognition and natural language processing"
     }
-  ],
-  "generated_text": "\"Module 46: AI Basics\" (10-minute video)\n\nFor advanced learners, this module introduces fundamental AI concepts. We'll explore key terminology, machine learning types, and neural network basics. Through interactive visuals and examples, you'll understand how AI systems process data and make decisions. Key takeaways include:\n\n* Defining AI and its applications\n* Supervised, unsupervised, and reinforcement learning\n* Neural network structure and function\n\nBy the end of this module, you'll have a solid foundation in AI principles, enabling you to apply this knowledge in real-world scenarios."
+  ]
 }
